@@ -1,0 +1,1000 @@
+Mozilla/5.0 (Linux\; Android 9\; Mi A1 Build/PKQ1.180917.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+yourApplicationName/2.17.43 (Linux\;Android 5.1.1) ExoPlayerLib/2.10.0
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R558 (6\; dt:193)
+Mozilla/5.0 (Linux\; Android 9\; Mi MIX 2S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-G960F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-J600FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.19A536g (Macintosh\; U\; Intel Mac OS X 10_15\; de_de)
+radio.de 4.14.0 (samsung/SM-G935F\; Android 8.0.0\; de_DE)
+Mozilla/5.0 (Linux\; Android 9\; ANE-LX1 Build/HUAWEIANE-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.9-arch1-1-ARCH
+Mozilla/5.0 (Linux\; Android 7.1.1\; ZTE B2017G Build/NMF26V\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 10\; Pixel 3 Build/QPP6.190730.005\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Podcasts/1410.10 CFNetwork/1103 Darwin/19.0.0 (x86_64)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G930F Build/R16NW\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Podcat 2/2.7.7 iPhone11,8 iOS/13.0 CFNetwork/1098.6 Darwin/19.0.0
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.13\; rv:70.0) Gecko/20100101 Firefox/70.0
+Mozilla/5.0 (Linux\; Android 9\; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3879.0 Safari/537.36 Edg/78.0.249.0
+MobileSMS/1.0 CFNetwork/978.0.7 Darwin/18.7.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-A750FN Build/PPR1.180610.011)
+atc/1.0 watchOS/6.0 model/Watch4,3 hwp/t8006 build/17R5566a (6\; dt:192)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; moto g(7) plus Build/PPW29.98-111)
+SonyF8132 Build/41.3.A.2.149 stagefright/1.2 (Linux\;Android 8.0.0)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 3a XL Build/PQ3B.190801.002)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3a XL Build/PQ3B.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.116 (Edition Campaign 76)
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6003 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.7.21.arm64
+AppleCoreMedia/1.0.0.17A5565b (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; LLD-L31 Build/HONORLLD-L31)
+Mozilla/5.0 (Linux\; Android 9\; MRD-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Armor_6E Build/PPR1.180610.011)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PKQ1.181203.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Enterprise Edition (Build 16299)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G930F Build/R16NW\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; HTC U11 life) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; FRD-L09 Build/HUAWEIFRD-L09\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; CLT-L29 Build/HUAWEICLT-L29)
+AppleCoreMedia/1.0.0.16U569 (Apple Watch\; U\; CPU OS 5_3 like Mac OS X\; de_at)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SNE-LX1 Build/HUAWEISNE-L21)
+Mozilla/5.0 (Linux\; Android 9\; SM-G970F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; COR-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; U\; Android 9\; en-US\; HRY-LX1T Build/HONORHRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.13.0.1207 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; MI 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; SAMSUNG SM-G800F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko)
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-A530F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 4.2.2\; SAMSUNG-SM-T217A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36
+Mozilla/5.0 (X11\; Linux x86_64\; rv:70.0) Gecko/20100101 Firefox/70.0
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R5566a (6\; dt:193)
+Podcat%202/22296 CFNetwork/1098.6 Darwin/19.0.0
+Overcast/792 CFNetwork/1098.6 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; CLT-L29 Build/HUAWEICLT-L29\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.41.7.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-G955F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Android 9\; Mobile\; rv:69.0) Gecko/69.0 Firefox/69.0
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-G950W Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/76.0.3809.100 Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Linux\; Android 7.0\; 6058D Build/NRD90M\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; VKY-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Podbean/Android App 7.0.3 (http://podbean.com),bb168e70f6ea0aced3ed093c6b309f76
+AppleCoreMedia/1.0.0.17A5565b (iPad\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+AppleCoreMedia/1.0.0.17A5565b (iPad\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi K20 MIUI/V10.3.14.0.PFJCNXM)
+atc/1.0 watchOS/6.0 model/Watch3,4 hwp/t8004 build/17R5566a (6\; dt:156)
+com.podflitzer.android/1.1.4 (Linux\;Android 9) ExoPlayerLib/2.10.1
+radio.de 4.14.0 (Acer/A3-A30\; Android 5.0.2\; de_DE)
+Mozilla/5.0 (Linux\; Android 9\; BKL-L09 Build/HUAWEIBKL-L09S\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.41.7.21.arm64
+Overcast/776 CFNetwork/1098.6 Darwin/19.0.0
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; it_it)
+Mozilla/5.0 (Linux\; Android 7.0\; SM-A510F Build/NRD90M\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm
+Mozilla/5.0 (Windows NT 6.3\; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 9\; TA-1021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.1.0\; Nexus 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+gPodder/3.9.3 (+http://gpodder.org/) Linux/4.4.0-157-generic
+Instacast/2380 CFNetwork/978.0.7 Darwin/18.7.0 (x86_64)
+Mozilla/5.0 (Linux\; Android 9\; GM1913 Build/PKQ1.190110.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.41.7.21.arm64
+newsboat/ (Linux x86_64)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 XL Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Instacast/2663 CFNetwork/978.0.7 Darwin/18.7.0 (x86_64)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H3113 Build/PQ3A.190801.002)
+radio.de 4.14.0 (BullittGroupLimited/Ektra\; Android 6.0\; de_DE)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi MIX 2S MIUI/V10.3.5.0.PDGMIXM)
+PodQast/2.6 +https://gitlab.com/cy8aer/podqast
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.119
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 5.0.1\; GT-I9505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G900F Build/PQ3A.190801.002)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel Build/PQ3A.190801.002)
+Mozilla/5.0 (Linux\; Android 6.0.1\; SGP621) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Safari/537.36
+AppleCoreMedia/1.0.0.17A5565b (iPad\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.51
+gPodder/3.10.3 (+http://gpodder.org/) Linux/5.2.8-arch1-1-ARCH
+Dalvik/2.1.0 (Linux\; U\; Android 9\; moto g(7) power Build/PPO29.114-134)
+radio.net 4.14.0 (HUAWEI/VOG-L29\; Android 9\; ar_DE)
+Mozilla/5.0 (Linux\; Android 7.0\; HUAWEI CAN-L01 Build/HUAWEICAN-L01\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Redmi Note 7 Build/PKQ1.180904.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SM-G975F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.17A5565b (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; G8441 Build/47.2.A.10.107)
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS3)
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.142 Chrome/75.0.3770.142 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+atc/1.0 watchOS/6.0 model/Watch4,2 hwp/t8006 build/17R5566a (6\; dt:191)
+Mozilla/5.0 (Linux\; Android 9\; VOG-L29 Build/HUAWEIVOG-L29\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Instacast/2763 CFNetwork/1098.6 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.17A5565b (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 5.1.1\; Redmi 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G930F Build/R16NW\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile Safari/537.36 GSA/9.72.4.21.arm64
+Podcasts/1400.227 CFNetwork/1098.6 Darwin/19.0.0
+Podcasts/1400.227 CFNetwork/1098.6 Darwin/19.0.0
+AppleCoreMedia/1.0.0.17A5565b (iPad\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 4.4.2\; Tab2A7-20F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; MHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+podcast/731 CFNetwork/976 Darwin/18.2.0
+podcast/731 CFNetwork/976 Darwin/18.2.0
+Mozilla/5.0 (Linux\; Android 10\; Pixel 2 XL Build/QPP6.190730.005\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.41.7.21.arm64
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; nb_no)
+Mozilla/5.0 (X11\; Ubuntu\; Linux x86_64\; rv:70.0) Gecko/20100101 Firefox/70.0
+Wget/1.20.3 (darwin18.6.0)
+Mozilla/5.0 (Linux\; Android 7.0\; Moto G (4) Build/NPJS25.93-14-18\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; J9110 Build/55.0.A.6.16)
+Mozilla/5.0 (Linux\; Android 9\; CMR-W09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Safari/537.36
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Enterprise Edition (Build 18362)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 6.0\; HUAWEI GRA-L09 Build/HUAWEIGRA-L09\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (X11\; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/76.0.3809.87 Chrome/76.0.3809.87 Safari/537.36
+Dalvik/2.1.0 (Linux\; U\; Android 7.0\; 5047U Build/NRD90M)
+Mozilla/5.0 (Linux\; Android 7.0\; BAH-W09 Build/HUAWEIBAH-W09\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 8.1.0\; SM-J530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+gPodder/3.10.1 (+http://gpodder.org/) Linux/4.15.0-58-generic
+Mozilla/5.0 (Linux\; Android 9\; MI 8 Build/PKQ1.180729.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-N960F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.6.21.arm64
+CastBox/7.69.18-190730086 (Linux\;Android 5.1.1) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5) Plus Build/OPS28.85-17-6-2\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm
+Mozilla/5.0 (Linux\; Android 9\; VTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 7.0\; SM-G920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.1.0\; Nexus 5X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; STH100-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AdsBot-Google (+http://www.google.com/adsbot.html)
+Mozilla/5.0 (Linux\; Android 9\; H4113 Build/50.2.A.0.400\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.6.21.arm64
+Mozilla/5.0 (Linux\; Android 8.0.0\; LG-H870 Build/OPR1.170623.032\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;davinci/PKQ1.190302.001)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.11\; rv:56.0) Gecko/20100101 Firefox/56.0 Waterfox/56.2.12
+Lynx/2.8.9rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/1.0.2s
+Dalvik/2.1.0 (Linux\; U\; Android 9\; H4113 Build/PQ3A.190705.003)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; H4113 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; ELE-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.16U569 (Apple Watch\; U\; CPU OS 5_3 like Mac OS X\; de_ch)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3872.0 Safari/537.36 Edg/78.0.242.0
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5S) Build/OPPS28.65-37-7-6\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.41.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; BKL-L09 Build/HUAWEIBKL-L09S\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.41.5.21.arm64
+gPodder/3.10.9 (+http://gpodder.org/) Linux/4.15.0-54-generic
+Mozilla/5.0 (Linux\; Android 9\; SM-G965F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 7 MIUI/V10.3.5.0.PFGEUXM)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3B.190605.006\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.41.5.21.arm64
+PodcastRepublic/18.0 (Linux\; U\; Android 6.0.1\;cancro/MMB29M)
+MediaMonkey5 5.0.0.2181
+MediaMonkey5 5.0.0.2181
+MediaMonkey5 5.0.0.2181
+WhatsApp/2.19.216 A
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Enterprise Edition (Build 17763)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 10\; Pixel 2 XL Build/QPP6.190730.005\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.41.5.21.arm64
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 Professional Edition (Build 17763)) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.119
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.4 Mobile/15E148 Safari/ RDDocuments/6.9.5.629
+Podcoin
+Mozilla/5.0 (Linux\; Android 9\; SM-G973F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.19A526h (Macintosh\; U\; Intel Mac OS X 10_15\; en_gb)
+AppleCoreMedia/1.0.0.19A526h (Macintosh\; U\; Intel Mac OS X 10_15\; en_gb)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;H8416/52.0.A.8.131)
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.38.6.21.arm64
+Mozilla/5.0 (Linux\; Android 7.0\; SM-A510F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.16G77 (iPod touch\; U\; CPU OS 12_4 like Mac OS X\; en_gb)
+AppleCoreMedia/1.0.0.16F203 (iPod touch\; U\; CPU OS 12_3_1 like Mac OS X\; de_ch)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PKQ1.181203.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-A320FL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS21)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SAMSUNG SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Xperia Z3 Build/PQ3A.190605.003)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; XT1676 Build/PQ3A.190505.002)
+Mozilla/5.0 (Linux\; Android 9\; XT1676 Build/PQ3A.190505.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; CMR-W09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; G8441) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Moto X4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; POT-LX1 Build/HUAWEIPOT-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.12H864 (Apple TV\; U\; CPU OS 8_4_2 like Mac OS X\; de_de)
+podcast/731 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.10 Safari/537.36 Edg/77.0.235.5
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; BBF100-6 Build/OPM1.171019.026)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101
+Mozilla/5.0 (Linux\; Android 9\; Mi A2 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-A920F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ZTE A2017X Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 7.1.1\; E5803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.98 Safari/537.36
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Nokia 6.1 Build/PPR1.180610.011)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; Redmi 4A Build/MMB29M\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36
+Podcasts/1410.17 CFNetwork/1104 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; VTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; G8441 Build/47.2.A.10.107)
+AppleCoreMedia/1.0.0.16U569 (Apple Watch\; U\; CPU OS 5_3 like Mac OS X\; en_us)
+Mozilla/5.0 (Linux\; Android 9\; CLT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AndroidDownloadManager/7.0 (Linux\; U\; Android 7.0\; F3111 Build/33.3.A.1.126)
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+gPodder/3.10.7 (+http://gpodder.org/) Linux/5.0.0-21-generic
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-A320FL Build/PQ3A.190605.003)
+Mozilla/5.0 (Linux\; Android 8.0.0\; F5321 Build/34.4.A.2.118\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 7.0\; TK-E101GC Build/NRD90M\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.91 Safari/537.36
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en)
+Mozilla/5.0 (Linux\; Android 9\; Nokia 7 plus Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ZTE Blade V10 Vita Build/PPR1.180610.011)
+Swoot/1.56.0 (Linux\;Android 9) ExoPlayerLib/2.9.6
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; STK-LX1 Build/HUAWEISTK-LX1\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; EML-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.0.0\; SM-T820 Build/R16NW)
+atc/1.0 watchOS/6.0 model/Watch2,7 hwp/t8002 build/17R5556d (6\; dt:149)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.3\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.49
+gPodder/3.10.9 (+http://gpodder.org/) Darwin/16.7.0
+Mozilla/5.0 (Linux\; Android 9\; SM-G973F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 8.1.0\; Aquaris X Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; Nexus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;lithium/PQ3A.190705.003)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;lithium/PQ3A.190705.003)
+Podcat 2/2.7.7 iPhone9,3 iOS/12.4 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 7.0\; HUAWEI VNS-L21 Build/HUAWEIVNS-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Iridium/2019.04 Safari/537.36 Chrome/73.0.0.0
+Receiver Radio iOS/1.0 (9)
+Windows-Media-Player/12.0.17763.592
+Mozilla/5.0 (Linux\; Android 9\; MI 8 Build/PKQ1.180729.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/18.1b15719 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6003 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.111 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+SafariViewService/1.0 CFNetwork/1098.4 Darwin/19.0.0
+Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; BBB100-2 Build/OPM1.171019.026)
+yourApplicationName/2.17.41 (Linux\;Android 9) ExoPlayerLib/2.10.0
+AppleCoreMedia/1.0.0.16G5077a (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_us)
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.8-arch1-1-ARCH
+Mozilla/5.0 (Linux\; Android 7.1.1\; SM-J510FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 10\; Pixel 2 XL Build/QPP6.190730.005\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.41.4.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Moto G (5S) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; HTC 10 Build/PQ3A.190705.003)
+NSPlayer/12.00.15063.1868 WMFSDK/12.00.15063.1868
+Mozilla/5.0 (iPad\; CPU OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 3 XL Build/PQ3A.190801.002)
+PlexMobile/6.0 (iPhone\; iOS 12.4\; Scale/2.00)
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.1.0\; SM-N9005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 7 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Mi A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+Mozilla/5.0 (Linux\; Android 6.0\; ALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+radio.de 4.14.0 (samsung/GT-I8190N\; Android 4.1.2\; de_DE)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SAMSUNG SM-G930F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Enterprise Edition (Build 17134)\; x64) AppleWebKit/7607.3009.0.19
+NSPlayer/12.00.18362.0239 WMFSDK/12.00.18362.0239
+Mozilla/5.0 (Linux\; Android 9\; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.14\; rv:70.0) Gecko/20100101 Firefox/70.0
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; en_gb)
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; en_gb)
+AndroidDownloadManager/8.1.0 (Linux\; U\; Android 8.1.0\; Nexus 6P Build/OPM7.181205.001)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Moto G (5S) Build/OPPS28.65-37-7-6)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MHA-AL00 Build/HUAWEIMHA-AL00)
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; de_at)
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; de_at)
+Podcasts/1410.14 CFNetwork/1104 Darwin/19.0.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H8314 Build/52.0.A.8.131)
+foobar2000/1.5b2
+Mozilla/5.0 (Linux\; Android 9\; H8266 Build/52.0.A.8.131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.128 Mobile Safari/537.36 (Ecosia android@69.0.3497.128)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ONEPLUS A5010 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; BKL-L09 Build/HUAWEIBKL-L09S\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.41.4.21.arm64
+gPodder/3.10.1 (+http://gpodder.org/) Linux/5.0.0-23-generic
+Mozilla/5.0 (Linux\; Android 8.0\; Build/OPR2.170623.027.S25) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.47 Safari/537.36 CrKey/1.36.154871
+Mozilla/5.0 (Linux\; Android 9\; Redmi 7A Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.3.2249.130976
+Mozilla/5.0 (Linux\; Android 9\; SM-G900F Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36
+Podcat 2/2.7.7 iPhone10,6 iOS/12.4 CFNetwork/978.0.7 Darwin/18.7.0
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.7-200.fc30.x86_64
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.6-200.fc30.x86_64
+Instacast/4.5 CFNetwork/978.0.7 Darwin/18.7.0
+nsurlsessiond/1098.4 CFNetwork/1098.4 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; JSN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17J5549c (Apple TV\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+gPodder/3.9.6 (+http://gpodder.org/) Linux/4.12.14-lp151.28.10-default
+Mozilla/5.0 (Linux\; Android 9\; LM-G810) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+CastBox/7.69.18-190730086 (Linux\;Android 6.0.1) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 6.0.1) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 8.0.0\; BND-L21 Build/HONORBND-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; STF-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/V10.2.3.0.PFBEUXM)
+CastBox/8.4.1 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 12.3.1)
+CastBox/7.69.17-190715121 (Linux\;Android 5.1.1) ExoPlayerLib/2.9.1
+yourApplicationName/2.17.42 (Linux\;Android 8.0.0) ExoPlayerLib/2.10.0
+yourApplicationName/2.17.42 (Linux\;Android 9) ExoPlayerLib/2.10.0
+gPodder/3.10.5 (+http://gpodder.org/) Linux/5.2.8-gentoo
+Mozilla/5.0 (Linux\; Android 8.1.0\; X19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R5532f (6\; dt:193)
+radio.net 4.14.0 (meizu/16s\; Android 9\; zh_CN)
+Mozilla/5.0 (Linux\; Android 7.0\; SM-G920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; SM-G970F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+CastBox/8.4.1 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 12.4.0)
+Mozilla/5.0 (Linux\; Android 9\; SM-G955F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3873.0 Safari/537.36
+Mozilla/5.0 (Linux\; Android 10\; Pixel 2 XL Build/QPP6.190730.005\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+Mozilla/5.0 (Android 5.0.2\; Mobile\; rv:68.0) Gecko/68.0 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 9\; STF-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Wget/1.20.3 (linux-android)
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.38.6.21.arm64
+Downcast/2.9.34 (iPhone\; iOS 12.4\; Scale/2.00)
+Mozilla/5.0 (Linux\; Android 8.0.0\; BLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+atc/1.0 watchOS/5.3 model/Watch2,4 hwp/t8002 build/16U5558b (6\; dt:134)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; ANE-LX1 Build/HUAWEIANE-L21)
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-G950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1\; WOW64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI 8 Lite MIUI/V10.3.3.0.PDTMIXM)
+Mozilla/5.0 (iPad\; CPU OS 12_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/76.0.3809.81 Mobile/15E148 Safari/605.1
+Mozilla/5.0 (Linux\; Android 8.0.0\; ATU-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS20)
+CastBox/7.69.18-190730086 (Linux\;Android 7.1.1) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 7.1.1) ExoPlayerLib/2.9.1
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Safari/537.36
+Mozilla/5.0 (Windows NT 6.3\; WOW64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+Mozilla/5.0 (Linux\; Android 9\; SM-A750FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.1.0\; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+gPodder/3.10.9 (+http://gpodder.org/) Linux/4.19.62-1-MANJARO
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 10\; Pixel 3 Build/QPP6.190730.005)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; STK-LX1 Build/HUAWEISTK-LX1)
+atc/1.0 watchOS/6.0 model/Watch3,1 hwp/t8004 build/17R527 (6\; dt:153)
+Mozilla/5.0 (Linux\; Android 9\; Nexus 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36 EdgA/42.0.2.3819
+Mozilla/5.0 (Linux\; Android 9\; m8 Build/PQ3A.190505.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
+gPodder/3.10.1 (+http://gpodder.org/) Linux/4.15.0-54-lowlatency
+Mozilla/5.0 (Linux\; Android 9\; Pixel Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 6.0.1\; SM-J500F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+MobileSafari/604.1 CFNetwork/1098.4 Darwin/19.0.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi A2 Build/PQ3A.190801.002)
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS14)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 2 Build/PQ3A.190801.002)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-N910F Build/PQ3A.190705.003)
+Podcat 2/2.7.7 iPhone11,2 iOS/12.4 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 9\; Nokia 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+atc/1.0 watchOS/6.0 model/Watch2,4 hwp/t8002 build/17R5546f (6\; dt:134)
+Mozilla/5.0 (Linux\; Android 9\; moto g(6) play Build/PPPS29.55-25-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Mozilla/5.0 (Linux\; Android 8.0.0\; LG-H850 Build/OPR1.170623.032\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101
+CastBox/7.69.18-190730086 (Linux\;Android 7.0) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 7.0) ExoPlayerLib/2.9.1
+ExoPlayer/4.0.4 (Linux\;Android 8.0.0) ExoPlayerLib/1.5.10
+Mozilla/5.0 (Linux\; Android 9\; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+CastBox/8.4 (fm.castbox.audiobook.radio.podcast\; build:10\; iOS 10.3.4)
+Linux UPnP/1.0 Sonos/51.1-66240 (ZP90)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G935F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS6)
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.116
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G935F Build/R16NW\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; VOG-L29 Build/HUAWEIVOG-L29\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.116
+Downcast/2.9.42 (iPad\; iOS 12.4\; Scale/2.00)
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; SGP621) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+AppleCoreMedia/1.0.0.17A5547d (iPod touch\; U\; CPU OS 13_0 like Mac OS X\; de_at)
+AppleCoreMedia/1.0.0.17A5547d (iPod touch\; U\; CPU OS 13_0 like Mac OS X\; de_at)
+Mozilla/5.0 (Windows NT 6.1\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.49
+Mozilla/5.0 (Linux\; Android 9\; COR-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Redmi 5 Plus MIUI/V10.2.3.0.OEGMIXM)
+PodQast/2.4 +https://gitlab.com/cy8aer/podqast
+PodQast/2.4 +https://gitlab.com/cy8aer/podqast
+Castamatic/2929 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Windows NT 6.1\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.116
+Mozilla/5.0 (Linux\; Android 8.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36
+iTunes/10.7 (Macintosh\; Intel Mac OS X 10.14.6) AppleWebKit/4607.3.9
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H9493 Build/52.0.A.8.50)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 (Build 17134)\; x64) AppleWebKit/7607.3009.0.19
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.0.0-23-generic
+Mozilla/5.0 (X11\; OpenBSD amd64\; rv:66.0) Gecko/20100101 Firefox/66.0
+iTunes/4.7.1 (Linux\; N\; Debian\; armv7l-linux\; DE\; utf8) SqueezeCenter, Squeezebox Server, Logitech Media Server/7.9.2/1561558440
+Mozilla/5.0 (Linux\; Android 9\; SM-T835) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+CastBox/8.4 (fm.castbox.audiobook.radio.podcast\; build:10\; iOS 12.4.0)
+CastBox/8.4 (fm.castbox.audiobook.radio.podcast\; build:10\; iOS 12.4.0)
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.49
+Mozilla/5.0 (Linux\; Android 8.0\; Build/OPR2.170623.027.S23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.47 Safari/537.36 CrKey/1.36.154871
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;payton/PPWS29.69-37-4)
+AppleCoreMedia/1.0.0.16U569 (Apple Watch\; U\; CPU OS 5_3 like Mac OS X\; en_gb)
+atc/1.0 watchOS/6.0 model/Watch2,7 hwp/t8002 build/17R5546f (6\; dt:149)
+Mozilla/5.0 (Linux\; Android 9\; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;bonito/PQ3B.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; SM-T725 Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.11\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Overcast/776 CFNetwork/1098.4 Darwin/19.0.0
+Overcast/776 CFNetwork/1098.4 Darwin/19.0.0
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.11\; rv:68.0) Gecko/20100101 Firefox/68.0
+gPodder/3.10.7 (+http://gpodder.org/) Darwin/18.7.0
+Dalvik/2.1.0 (Linux\; U\; Android 8.0.0\; SM-T825 Build/R16NW)
+CastBox/8.3 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 10.3.4)
+Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel XL Build/PQ3A.190705.001)
+Mozilla/5.0 (Linux\; Android 8.1.0\; Aquaris X Pro Build/OPM1.171019.026\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G935F Build/PQ3A.190605.003)
+Mozilla/5.0 (Linux\; Android 8.1.0\; BBD100-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Linux\; Android 8.1.0\; Nexus 5X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_at)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.0.0\; Mi Note 2 MIUI/V10.2.1.0.OADMIXM)
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5) Build/OPPS28.85-13-6\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm
+Mozilla/5.0 (Linux\; Android 9\; moto g(6) Build/PPS29.55-37-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/76.0.3809.81 Mobile/15E148 Safari/605.1
+PlexMobile/5.18 (iPhone\; iOS 12.3.1\; Scale/3.00)
+Mozilla/5.0 (Windows NT 10.0\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3682.0 Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.9\; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 9\; Redmi Note 7 Build/PKQ1.180904.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3a Build/PQ3B.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/76.0.3809.87 Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3872.0 Safari/537.36 Edg/78.0.243.0
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+AppleCoreMedia/1.0.0.16G2128 (Macintosh\; U\; Intel Mac OS X 10_12_6\; de_de)
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/76.0.3809.100 Safari/537.36
+Instacast/2685 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_sg)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+gPodder/3.10.7 (+http://gpodder.org/) Linux/5.0.0-25-generic
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64\; rv:56.0) Gecko/20100101 Firefox/56.0 Waterfox/56.2.12
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H8266 Build/52.0.A.8.131)
+Downcast/2.9.41 (Mac OS X Version 10.12.6 (Build 16G2128))
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.20.3.21.arm64
+network/1 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 9\; Mi A2 Lite Build/PKQ1.180917.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 10\; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 Professional Edition (Build 18362)) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (X11\; Linux i686\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+Mozilla/5.0 (Windows NT 10.0\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; LG-H930 Build/PKQ1.190414.001)
+atc/1.0 watchOS/6.0 model/Watch3,2 hwp/t8004 build/17R5532f (6\; dt:154)
+Mozilla/5.0 (Linux\; Android 9\; Poco F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;ali_n/PPS29.55-37-4)
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.5-arch1-1-ARCH
+Mozilla/5.0 (Linux\; Android 8.1.0\; A0001 Build/OPM7.181205.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.99 Mobile Safari/537.36 GSA/10.33.5.21.arm
+NSPlayer/12.00.18362.0267 WMFSDK/12.00.18362.0267
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/V10.3.3.0.PFBMIXM)
+iTunes/12.9.6 (Windows\; Microsoft Windows 8.1 x64 Professional Edition (Build 9600)\; x64) AppleWebKit/7607.3009.0.19
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G901F Build/PQ3A.190705.003)
+Podbean/Android App 7.0.3 (http://podbean.com),c0487ecf635f90904b12744dfd18c9d9
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;sargo/PQ3B.190705.003)
+Mozilla/5.0 (Windows NT 10.0\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.116
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ANE-LX2 Build/HUAWEIANE-L22)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Nokia 5.1 Build/PPR1.180610.011)
+Mozilla/5.0 (Linux\; Android 7.0\; HUAWEI VNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en)
+Mozilla/5.0 (Linux\; Android 8.0.0\; F5321) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 10\; Pixel XL Build/QPP6.190730.005)
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.1.21-1-MANJARO
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Home Premium Edition (Build 17134)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 6.0.1\; SAMSUNG SM-G901F Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; CLT-L29 Build/HUAWEICLT-L29\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+yourApplicationName/2.17.42 (Linux\;Android 7.0) ExoPlayerLib/2.10.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36
+atc/1.0 watchOS/6.0 model/Watch3,2 hwp/t8004 build/17R5556d (6\; dt:154)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; POCOPHONE F1 MIUI/9.8.1)
+Mozilla/5.0 (Linux\; U\; Android 8.0.0\; de-at\; SM-A750FN Build/R16NW) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/10.33.5.21.arm64
+yourApplicationName/2.17.42 (Linux\;Android 5.1) ExoPlayerLib/2.10.0
+podcast/729 CFNetwork/978.0.7 Darwin/18.7.0
+podcast/729 CFNetwork/978.0.7 Darwin/18.7.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 10\; Pixel 2 XL Build/QPP6.190730.005)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; es_es)
+CastBox/7.69.17-190715121 (Linux\;Android 8.1.0) ExoPlayerLib/2.9.1/7.69.17-190715121 (Linux\;Android 8.1.0) ExoPlayerLib/2.9.1
+CastBox/7.69.15-190711048 (Linux\;Android 7.0) ExoPlayerLib/2.9.1
+Instacast/2708 CFNetwork/1098.4 Darwin/19.0.0
+CastBox/7.69.18-190730086 (Linux\;Android 6.0.1) ExoPlayerLib/2.9.1
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; motorola one vision Build/PSAS29.137-17-2)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; GM1910 Build/PKQ1.190110.001)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; HTC U12+ Build/PQ2A.190205.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI MAX 3 MIUI/9.7.25)
+Mozilla/5.0 (Linux\; Android 6.0.1\; ONE E1003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 7.1.1\; SM-T395) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+Podcat 2/2.7.7 iPhone10,4 iOS/13.0 CFNetwork/1098.4 Darwin/19.0.0
+gPodder/3.10.9 (+http://gpodder.org/) Windows/8.1
+gPodder/3.10.7 (+http://gpodder.org/) Linux/5.0.0-23-generic
+Dalvik/2.1.0 (Linux\; U\; Android 9\; EML-L29 Build/HUAWEIEML-L29)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi MIX 2S MIUI/9.6.27)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 6 Pro MIUI/V10.3.5.0.PEKMIXM)
+iTunes/12.9.6 (Windows\; Microsoft Windows 8.1 x64 Enterprise Edition (Build 9600)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-T825) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Safari/537.36
+Downcast/2.9.41 (Mac OS X Version 10.13.6 (Build 17G8030))
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;whyred/PKQ1.180904.001)
+Apache-HttpClient/4.5.8 (Java/1.8.0_222)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI 9 MIUI/V10.2.13.0.PFAMIXM)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi MIX 2S MIUI/V10.3.4.0.PDGMIXM)
+Mozilla/5.0 (Linux\; Android 7.0\; AGS-W09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.145 Safari/537.36 Vivaldi/2.6.1566.49
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;HWLLD-H/HONORLLD-L31)
+Apache-HttpClient/4.5.3 (Java/1.8.0_212)
+Mozilla/5.0 (Linux\; Android 9\; Redmi Note 7 Build/PKQ1.180904.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Downcast/2.9.39 (iPad\; iOS 9.3.6\; Scale/1.00)
+atc/1.0 watchOS/6.0 model/Watch4,3 hwp/t8006 build/17R5556d (6\; dt:192)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Redmi 5 MIUI/V10.3.2.0.ODAMIXM)
+Mozilla/5.0 (Windows NT 6.1\; Trident/7.0\; MSNIE9A\; rv:11.0) like Gecko
+iTunes/12.9.6 (Windows\; Microsoft Windows 7 Service Pack 1 x64 Professional Edition (Build 7601)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 9\; Nexus 6P Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+AppleCoreMedia/1.0.0.16G5077a (iPhone\; U\; CPU OS 12_4 like Mac OS X\; de_at)
+Opera/9.80 (Android\; Opera Mini/20.0.2254/150.36\; U\; de) Presto/2.12.423 Version/12.16
+yourApplicationName/2.17.42 (Linux\;Android 5.1.1) ExoPlayerLib/2.10.0
+AppleCoreMedia/1.0.0.19A526h (Macintosh\; U\; Intel Mac OS X 10_15\; en_us)
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.4 Mobile/15E148 Safari/ RDDocuments/6.9.3.626
+Mozilla/5.0 (Linux\; Android 5.1.1\; AEOKN) AppleWebKit/537.36 (KHTML, like Gecko) Silk/75.4.11 like Chrome/75.0.3770.143 Safari/537.36
+Podcat%202/22296 CFNetwork/1098.4 Darwin/19.0.0
+podcast/729 CFNetwork/978.0.7 Darwin/18.6.0
+podcast/729 CFNetwork/978.0.7 Darwin/18.6.0
+PodCruncher/3.7.1 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10.13\; rv:69.0) Gecko/20100101 Firefox/69.0
+AppleCoreMedia/1.0.0.13G37 (iPad\; U\; CPU OS 9_3_6 like Mac OS X\; de_de)
+Podcat 2/2.7.7 iPhone11,6 iOS/13.0 CFNetwork/1098.4 Darwin/19.0.0
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 2 XL Build/PQ3A.190801.002)
+Mozilla/5.0 (Linux\; Android 9\; MI MAX 3 Build/PKQ1.181007.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+Mozilla/5.0 (Linux\; Android 6.0.1\; SAMSUNG SM-A300FU Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+PodcastRepublic/18.0 (Linux\; U\; Android 8.1.0\;A0001/OPM7.181205.001)
+Downcast/2.9.41 (iPhone\; iOS 10.3.4\; Scale/2.00)
+Downcast/2.9.41 (Mac OS X Version 10.14.6 (Build 18G84))
+Mozilla/5.0 (Linux\; Android 6.0\; HUAWEI GRA-L09 Build/HUAWEIGRA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Mozilla/5.0 (X11\; Ubuntu\; Linux i686\; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6003 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.5-200.fc30.x86_64
+Mozilla/5.0 (Linux\; Android 9\; moto g(6)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ONEPLUS A3003 Build/PQ3A.190705.003)
+AppleCoreMedia/1.0.0.17A5556d (iPad\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+AppleCoreMedia/1.0.0.16G5077a (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_gb)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ONEPLUS A6003 Build/PQ3A.190705.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 4 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 XL Build/PQ3A.190801.002\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Nokia 2.2 Build/PPR1.180610.011)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note5 Build/PQ3A.190705.003)
+Podcat 2/2.7.7 iPhone7,2 iOS/12.4 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 9\; Pixel Build/PQ3A.190705.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 10\; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+CastBox/7.69.18-190730086 (Linux\;Android 7.1.2) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 7.1.2) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Android 5.0.1\; Mobile\; rv:68.0) Gecko/68.0 Firefox/68.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; ONEPLUS A6010 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 9\; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Podcasts/1410.13 CFNetwork/1103 Darwin/19.0.0
+AppleCoreMedia/1.0.0.13G37 (iPad\; U\; CPU OS 9_3_6 like Mac OS X\; de_ch)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; moto g(7) power Build/PPO29.114-134)
+Mozilla/5.0 (iPhone\; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/12.4 Mobile/11A465 Safari/9537.53 VLC for iOS/3.1.9
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16G77 Twitter for iPhone/7.56
+iTunes/12.9.6 (Windows\; Microsoft Windows 8.1 x64 Home Premium Edition (Build 9600)\; x64) AppleWebKit/7607.3009.0.19
+PlexMobile/5.18 (iPhone\; iOS 12.4\; Scale/3.00)
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-N950F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+PlexMobile/5.18 (iPad\; iOS 12.3.1\; Scale/2.00)
+Mozilla/5.0 (Linux\; Android 9\; Mi A2 Lite Build/PKQ1.180917.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+atc/1.0 watchOS/6.0 model/Watch3,4 hwp/t8004 build/17R5556d (6\; dt:156)
+atc/1.0 watchOS/6.0 model/Watch2,4 hwp/t8002 build/17R5556d (6\; dt:134)
+iCatcher!/5.5 (iPhone\; iOS 12.4\; Scale/3.0)
+Mozilla/5.0 (Linux\; Android 8.1.0\; JSN-L21 Build/HONORJSN-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AndroidDownloadManager/10 (Linux\; U\; Android 10\; Pixel 3a Build/QPP6.190730.005)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 7.1.2\; View Build/N2G47H)
+Mozilla/5.0 (Windows NT 6.3\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;H8324/52.0.A.8.131)
+RSSRadio7Lite/9252 CFNetwork/978.0.7 Darwin/18.7.0
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 10\; Pixel 3 XL Build/QPP6.190730.005)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 2 Build/PQ3A.190801.002)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 (Build 18362)\; x64) AppleWebKit/7607.3009.0.19
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;taimen/PQ3A.190801.002)
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Player%20FM/348 CFNetwork/978.0.7 Darwin/18.7.0
+gPodder/3.10.9 (+http://gpodder.org/) Linux/4.19.0-5-amd64
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-G973F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%B8/1400.222 CFNetwork/1098.4 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-G930F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R5556d (6\; dt:193)
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_ch)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Lenovo TB-X605L Build/PKQ1.190319.001)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H8314 Build/52.0.A.8.107)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;OnePlus5/PQ3A.190705.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3a XL Build/PQ3B.190801.002)
+AppleCoreMedia/1.0.0.14G61 (iPad\; U\; CPU OS 10_3_4 like Mac OS X\; de_de)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 2 XL Build/PQ3A.190801.002)
+atc/1.0 watchOS/6.0 model/Watch4,1 hwp/t8006 build/17R5556d (6\; dt:190)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H3113 Build/PQ3A.190705.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; moto g(7) Build/PPO29.114-134)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 3 Build/PQ3A.190801.002)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 Home Premium Edition (Build 18362)) AppleWebKit/7607.3009.0.19
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 5 Build/PQ3A.190705.003)
+iCatcher!/5.4.3 (iPod touch\; iOS 12.4\; Scale/2.0)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; motorola one Build/PPKS29.68-16-36-5)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; XT1685 Build/PQ3A.190505.006)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; moto g(7) play Build/PPY29.105-134)
+Podcat%202/22296 CFNetwork/1098.1 Darwin/19.0.0
+PodcastAddict/v2 - Dalvik/1.6.0 (Linux\; U\; Android 4.4.2\; GT-N5100 Build/KOT49H)
+AndroidDownloadManager/10 (Linux\; U\; Android 10\; Pixel 2 XL Build/QPP6.190730.005)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/V10.2.2.0.PFBEUXM)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.0.0\; W_C800 Build/OPR1.170623.032)
+gPodder/3.10.9 (+http://gpodder.org/) Linux/4.15.0-55-generic
+Mozilla/5.0 (Linux\; Android 9\; BKL-L09 Build/HUAWEIBKL-L09S\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+(Windows NT 10.0\; Win64\; x64) PotPlayer/1.7.19955
+AndroidDownloadManager/10 (Linux\; U\; Android 10\; Pixel 2 Build/QPP6.190730.005)
+Mozilla/5.0 (X11\; Linux x86_64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+Mozilla/5.0 (Android 6.0\; Mobile\; rv:68.0) Gecko/68.0 Firefox/68.0
+Mozilla/5.0 (Windows NT 6.1\; Win64\; x64\; rv:69.0) Gecko/20100101 Firefox/69.0
+Mozilla/5.0 (Linux\; Android 6.0.1\; SAMSUNG SM-G900F/G900FXXU1CQDA Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+Castamatic/2906 CFNetwork/978.0.7 Darwin/18.7.0
+Podcasts/1400.224 CFNetwork/1098.6 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G398FN Build/PPR1.180610.011)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.0.0\; Moto Z2 Play Build/OPSS27.76-12-25-23)
+AppleCoreMedia/1.0.0.16G77 (iPad\; U\; CPU OS 12_4 like Mac OS X\; en_gb)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; POCO F1 Build/PQ3A.190705.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G390F Build/PPR1.180610.011)
+Swoot/2880 CFNetwork/978.0.7 Darwin/18.7.0
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.6-arch1-1-ARCH
+atc/1.0 watchOS/6.0 model/Watch5,4 hwp/t8006 build/17R561a (6\; dt:202)
+AppleCoreMedia/1.0.0.14G61 (iPhone\; U\; CPU OS 10_3_4 like Mac OS X\; de_de)
+AppleCoreMedia/1.0.0.16G77 (iPod touch\; U\; CPU OS 12_4 like Mac OS X\; en_us)
+Podcasts/1410.11 CFNetwork/1103 Darwin/19.0.0
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_ie)
+WeissiPod/1 CFNetwork/978.0.7 Darwin/18.7.0
+gPodder/3.9.3 (+http://gpodder.org/) Linux/4.19.57-v7+
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) akregator/5.11.3 Safari/534.34
+RSSRadio/9252 (iPhone\;iOS\;12.4)
+Instacast/2763 CFNetwork/1098.4 Darwin/19.0.0
+Swoot/1.55.1 (Linux\;Android 9) ExoPlayerLib/2.9.6
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.2.7-towo.1-siduction-amd64
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_at)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_au)
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+AppleCoreMedia/1.0.0.17R5556d (Apple Watch\; U\; CPU OS 6_0 like Mac OS X\; en_us)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/V10.3.4.0.PFBEUXM)
+iTunes/12.9.6 (Windows\; Microsoft Windows 7 Service Pack 1 x64 Ultimate Edition (Build 7601)\; x64) AppleWebKit/7607.3009.0.19
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Professional Edition (Build 17763)\; x64) AppleWebKit/7607.3009.0.19
+CastBox/7.69.18-190730086 (Linux\;Android 7.1.2) ExoPlayerLib/2.9.1
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;CTL_sprout/PPR1.180610.011)
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI MAX 3 MIUI/V10.3.3.0.PEDMIXM)
+AppleCoreMedia/1.0.0.17R5556d (Apple Watch\; U\; CPU OS 6_0 like Mac OS X\; de_at)
+AppleCoreMedia/1.0.0.13G37 (iPhone\; U\; CPU OS 9_3_6 like Mac OS X\; de_ch)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3 Build/PQ3A.190801.002)
+Mozilla/5.0 (Linux\; Android 9\; moto g(7) plus Build/PPWS29.98-66-2\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Windows\; U\; Windows NT 5.1\; ru-RU) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi MIX 3 MIUI/V10.3.2.0.PEEMIXM)
+Mozilla/5.0 (Linux\; Android 9\; SM-T720 Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Safari/537.36 GSA/10.33.5.21.arm64
+CastBox/8.4 (fm.castbox.audiobook.radio.podcast\; build:10\; iOS 13.0.0)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3 XL Build/PQ3A.190801.002)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel XL Build/PQ3A.190705.001)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; ja_jp)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 10\; Pixel 2 Build/QPP6.190730.005)
+Mozilla/5.0 (Linux\; Android 9\; F1 Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3a Build/PQ3B.190801.002)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3a XL Build/PQ3B.190705.003)
+Mozilla/5.0 (Linux\; U\; Android 9\; de-de\; BLA-L29 Build/HUAWEIBLA-L29S) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/10.33.5.21.arm64
+RSSRadio7Lite/9252 CFNetwork/978.0.7 Darwin/18.6.0
+curl/7.65.3
+AppleCoreMedia/1.0.0.16G5069a (iPhone\; U\; CPU OS 12_4 like Mac OS X\; de_at)
+Mozilla/5.0 (Windows NT 10.0\; WOW64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0 Lightning/6.2.8
+Mozilla/5.0 (X11\; Linux x86_64\; rv:60.0) Gecko/20100101 Thunderbird/60.8.0
+Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-N935F Build/PPR1.180610.011)
+Podbean/Android App 7.0.3 (http://podbean.com),baee01737d3e79f58f0b63bc8bbb6cae
+Mozilla/5.0 (Linux\; Android 9\; TA-1021 Build/PKQ1.181105.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+CastBox/8.3 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 13.0.0)
+gPodder/3.10.5 (+http://gpodder.org/) Linux/5.2.5-gentoo
+Podbean/Android App 7.0.3 (http://podbean.com),3cb0b3361eafdd0490172622a7559898
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+Agora/79 CFNetwork/978.0.7 Darwin/18.7.0
+CastBox/7.69.18-190730086 (Linux\;Android 8.1.0) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; moto g(6) Build/PPS29.55-37-4)
+Downcast/2.9.41 (iPod touch\; iOS 12.4\; Scale/2.00)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; A0001 Build/PQ3A.190705.003)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; POCOPHONE F1 MIUI/V10.3.6.0.PEJMIXM)
+Mozilla/5.0 (Linux\; Android 9\; Lenovo Yoga Tab 3 Plus Wi-Fi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1\; WOW64\; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 8.1.0\; DRA-L21 Build/HUAWEIDRA-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Tiny Tiny RSS/19.2 (76bc53a) (http://tt-rss.org/)
+Mozilla/5.0 (Linux\; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Focus/6.1.1 Chrome/76.0.3809.89 Mobile Safari/537.36
+PodQast/2.5 +https://gitlab.com/cy8aer/podqast
+Mozilla/5.0 (Linux\; Android 8.0.0\; FIG-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; LYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; LLD-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+atc/1.0 watchOS/6.0 model/Watch4,2 hwp/t8006 build/17R5556d (6\; dt:191)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/9.8.1)
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS9)
+Mozilla/5.0 (Linux\; Android 8.0.0\; F5121) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+AndroidDownloadManager/8.1.0 (Linux\; U\; Android 8.1.0\; Lenovo TB-X104F Build/OPM1.171019.026)
+Podcasts/1400.222 CFNetwork/1098.4 Darwin/19.0.0
+atc/1.0 watchOS/6.0 model/Watch5,4 hwp/t8006 build/17R560a (6\; dt:202)
+radio.de 4.14.0 (samsung/SM-A520F\; Android 8.0.0\; de_DE)
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+AppleCoreMedia/1.0.0.17A5556d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 XL Build/PQ3A.190705.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.38.4.21.arm64
+AppleCoreMedia/1.0.0.17A5556d (iPad\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.117
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.16E227 (iPad\; U\; CPU OS 12_2 like Mac OS X\; es_es)
+atc/1.0 watchOS/6.0 model/Watch3,2 hwp/t8004 build/17R559 (6\; dt:154)
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99 (Edition Campaign 76)
+Mozilla/5.0 (Windows NT 10.0\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+AppleCoreMedia/1.0.0.17J5540d (Apple TV\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H8324 Build/52.0.A.8.131)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Lenovo P2a42 Build/PQ3A.190705.003)
+Mozilla/5.0 (Linux\; Android 5.1.1\; D5503) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 7.0\; Lenovo P2a42 Build/NRD90N\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; U\; Android 9\; en-US\; HRY-LX1T Build/HONORHRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.8.1206 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3861.0 Safari/537.36 Edg/77.0.230.2
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3B.190605.006\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.4.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; LLD-L31 Build/HONORLLD-L31\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; de_de)
+Downcast/2.9.41 (Mac OS X Version 10.14.6 (Build 18G87))
+Mozilla/5.0 (Linux\; Android 9\; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.80 Safari/537.36 OPR/63.0.3368.22 (Edition beta)
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.105
+Mozilla/5.0 (Windows NT 10.0\; WOW64\; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+Mozilla/5.0 (Linux\; Android 9\; LLD-L31 Build/HONORLLD-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36 YaApp_Android/8.80 YaSearchBrowser/8.80
+Mozilla/5.0 (Linux\; Android 8.0.0\; WAS-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.1.0\; Lenovo L58041 Build/OPM1.171019.026\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 8.0.0\; RNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; RNE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+CastBox/7.69.18-190730086 (Linux\;Android 8.0.0) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 9\; SM-G960F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; X19 Build/PPR1.180610.011)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+radio.de 4.14.0 (HUAWEI/CMR-W09\; Android 9\; de_DE)
+Mozilla/5.0 (iPad\; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+Linux UPnP/1.0 Sonos/51.1-66240 (ZPS5)
+Tiny Tiny RSS/19.2 (a60297b) (http://tt-rss.org/)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel 3a Build/PQ3B.190801.002)
+Mozilla/5.0 (Linux\; Android 9\; POT-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+CastBox/7.69.18-190730086 (Linux\;Android 9) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 9) ExoPlayerLib/2.9.1
+Podcat%202/22296 CFNetwork/1091 Darwin/19.0.0
+Podcat%202/22296 CFNetwork/1091 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6013 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Nokia 7 plus Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.33.5.21.arm64
+Mozilla/5.0 (iPad\; CPU OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/76.0.3809.81 Mobile/15E148 Safari/605.1
+Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-A405FN Build/PPR1.180610.011)
+Mozilla/5.0 (iPad\; CPU OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+radio.net 4.14.0 (Sony/G3421\; Android 8.0.0\; tr_TR)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Professional Edition (Build 17134)\; x64) AppleWebKit/7607.3009.0.19
+CastBox/7.69.18-190730086 (Linux\;Android 7.0) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 9\; SM-G965F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+atc/1.0 watchOS/6.0 model/Watch4,3 hwp/t8006 build/17R5546f (6\; dt:192)
+radio.de 4.14.0 (HUAWEI/VTR-L09\; Android 9\; de_DE)
+Mozilla/5.0 (Linux\; Android 9\; ANE-LX1 Build/HUAWEIANE-L21\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-G950F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 8.1.0\; ONEPLUS A3003 Build/OPM7.181205.001\; rv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Rocket/1.6.2(12322) Chrome/71.0.3578.99 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.19A526h (Macintosh\; U\; Intel Mac OS X 10_15\; de_de)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Nokia 7 plus Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Redmi Note 6 Pro MIUI/V10.3.2.0.PEKMIXM)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/V10.2.2.0.PFBMIXM)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+iTunes/12.9.6 (Windows\; Microsoft Windows 7 Service Pack 1 x64 Home Premium Edition (Build 7601)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5) Plus Build/OPS28.85-17-6-2\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 GSA/10.28.9.21.arm
+AppleCoreMedia/1.0.0.16G5077a (iPhone\; U\; CPU OS 12_4 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 9\; H4413) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Home Premium Edition (Build 18362)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6013 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+radio.de 4.14.0 (HUAWEI/AGS2-W09\; Android 8.0.0\; de_DE)
+CastBox/7.69.18-190730086 (Linux\;Android 8.0.0) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 8.0.0) ExoPlayerLib/2.9.1
+AppleCoreMedia/1.0.0.18G87 (Macintosh\; U\; Intel Mac OS X 10_14_6\; en_us)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; Pixel Build/PQ3A.190705.001)
+Mozilla/5.0 (Linux\; Android 9\; Pixel Build/PQ3A.190705.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 5.0.1\; GT-I9505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Windows NT 6.2\; Win64\; x64\; rv:68.0) Gecko/20100101 Firefox/68.0
+Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Moto G (5S) Plus Build/OPSS28.65-36-11-4)
+Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Moto G (5S) Plus Build/OPSS28.65-36-11-4)
+Review/43 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+AppleCoreMedia/1.0.0.17A5547d (iPad\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+AppleCoreMedia/1.0.0.13G37 (iPhone\; U\; CPU OS 9_3_6 like Mac OS X\; de_de)
+atc/1.0 watchOS/5.3 model/Watch2,3 hwp/t8002 build/16U569 (6\; dt:133)
+Outcast 3.1.13
+CastBox/7.69.18-190730086 (Linux\;Android 8.1.0) ExoPlayerLib/2.9.1/7.69.18-190730086 (Linux\;Android 8.1.0) ExoPlayerLib/2.9.1
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Redmi 6A MIUI/V9.6.18.0.OCBMIFD)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Home Premium Edition (Build 17763)\; x64) AppleWebKit/7607.3009.0.19
+gPodder/3.10.9 (+http://gpodder.org/) Linux/4.19.60-1-MANJARO
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;H8324/52.0.A.8.107)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;H8324/52.0.A.8.107)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;H8324/52.0.A.8.107)
+Castro 2019.9/1154
+Mozilla/5.0 (Linux\; Android 9\; TA-1021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; PIC-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; U\; Android 7.0\; en-us\; Lenovo P2a42 Build/NRD90N) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/10.4.5.21.arm64
+AppleCoreMedia/1.0.0.16G77 (iPod touch\; U\; CPU OS 12_4 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 9\; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 7.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel 3a Build/PQ3B.190705.003)
+Podcasts/1400.219.5 CFNetwork/1098 Darwin/19.0.0 (x86_64)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3B.190605.006\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.33.4.21.arm64
+Mozilla/5.0 (Windows NT 10.0\; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36
+yourApplicationName/2.17.40 (Linux\;Android 9) ExoPlayerLib/2.10.0
+com.audials.paid/7.5.3-0-gdcebbc06d (Linux\;Android 7.0) ExoPlayerLib/2.9.3
+CastBox/7.69.18-190730086 (Linux\;Android 9) ExoPlayerLib/2.9.1
+AndroidDownloadManager/6.0 (Linux\; U\; Android 6.0\; K80 Build/MRA58K)
+Mozilla/5.0 (Linux\; U\; Android 6.0\; de-de\; K80 Build/MRA58K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 GSA/10.28.9.21.arm
+Mozilla/5.0 (Linux\; Android 8.1.0\; Moto G (5)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; XT1650 Build/OPL27.76-71-2-3\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 7.0\; SM-A510F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.16G78 (HomePod\; U\; CPU OS 12_4 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 9\; SM-G973F Build/PPR1.180610.011\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 Build/PQ3A.190705.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Instacast/2763 CFNetwork/1098.1 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 8.0.0\; SM-A320FL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+yourApplicationName/2.17.38 (Linux\;Android 9) ExoPlayerLib/2.10.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PKQ1.181203.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (iPhone\; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.7011.1404 Mobile Safari/537.36\; Bytespider
+Mozilla/5.0 (Linux\; Android 5.0\; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.5511.1754 Mobile Safari/537.36\; Bytespider
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; H8324 Build/52.0.A.8.107)
+atc/1.0 watchOS/6.0 model/Watch4,2 hwp/t8006 build/17R5546f (6\; dt:191)
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R5546f (6\; dt:193)
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; POT-LX1T Build/HUAWEIPOT-L21T)
+Mozilla/5.0 (Linux\; Android 9\; SAMSUNG SM-A750FN/A750FNXXU1BSG1 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_ca)
+Mozilla/5.0 (Linux\; Android 5.1.1\; SM-J320F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17A5547d (iPad\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+Mozilla/5.0 (Linux\; Android 7.0\; EVA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI 9 MIUI/V10.2.28.0.PFAEUXM)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Franz/5.2.1-beta.1 Chrome/69.0.3497.128 Electron/4.2.4 Safari/537.36
+Mozilla/5.0 (Linux\; U\; Android 9\; de-de\; BLA-L29 Build/HUAWEIBLA-L29S) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux\; U\; Android 6.0\; Redmi Note 4 MIUI/V10.2.1.0.MBFMIXM)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 7.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; S31 Build/OPM1.171019.026)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Pixel Build/PQ3A.190705.001)
+gPodder/3.10.1 (+http://gpodder.org/) Linux/4.15.0-55-generic
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; MI 8 MIUI/V10.3.3.0.PEAMIXM)
+Mozilla/5.0 (Linux\; Android 4.3\; C1905) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A5010 Build/PKQ1.180716.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+CastBox/7.69.17-190715121 (Linux\;Android 7.1.2) ExoPlayerLib/2.9.1
+atc/1.0 watchOS/6.0 model/Watch2,7 hwp/t8002 build/17R5532f (6\; dt:149)
+Podcasts/1400.218.4 CFNetwork/1098.1 Darwin/19.0.0
+Podcasts/1400.218.4 CFNetwork/1098.1 Darwin/19.0.0
+Mozilla/5.0 (Linux\; Android 8.1.0\; SM-J530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; de_de)
+AppleCoreMedia/1.0.0.14G61 (iPhone\; U\; CPU OS 10_3_4 like Mac OS X\; en_us)
+Mozilla/5.0 (Linux\; Android 7.0\; Moto G (4) Build/NPJS25.93-14-18\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm
+Mozilla/5.0 (Linux\; Android 8.1.0\; Lenovo L58041 Build/OPM1.171019.026\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PKQ1.181203.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+radio.de 4.14.0 (WIKO/View Prime\; Android 7.1.2\; de_DE)
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A5000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; H9436 Build/52.0.A.8.107\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+AppleCoreMedia/1.0.0.17A5547d (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+atc/1.0 watchOS/5.3 model/Watch2,6 hwp/t8002 build/16U569 (6\; dt:148)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A3003 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+radio.de 4.14.0 (ZTE/ZTE A2017G\; Android 8.0.0\; de_DE)
+Mozilla/5.0 (Linux\; Android 8.0.0\; SAMSUNG SM-A320FL Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/67.0.3396.87 Mobile Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; Mi 9 SE MIUI/9.7.25)
+Mozilla/5.0 (Linux\; Android 9\; MI 5 Build/PQ3A.190705.003\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+Podcasts/1400.219 CFNetwork/1098.2 Darwin/19.0.0
+PodcastRepublic/18.0 (Linux\; U\; Android 6.0.1\;klimtlte/MMB29K)
+radio.de 4.14.0 (samsung/SM-J600FN\; Android 9\; de_DE)
+Mozilla/5.0 (Linux\; Android 8.1.0\; Lenovo L58041 Build/OPM1.171019.026\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+iCatcher!/5.4.3 (iPhone\; iOS 12.4\; Scale/2.0)
+PodcastRepublic/18.0 (Linux\; U\; Android 9\;beyond0/PPR1.180610.011)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; de_ch)
+AppleCoreMedia/1.0.0.17A5534f (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_gb)
+radio.de 4.14.0 (HUAWEI/EML-L29\; Android 9\; de_DE)
+podcast/712 CFNetwork/811.5.4 Darwin/16.7.0
+Podbean/Android App 7.0.3 (http://podbean.com),c96de0499dd16fbc4afb5cae0fd06b84
+Mozilla/5.0 (Linux\; Android 9\; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; U\; Android 8.1.0\; de-de\; SM-T580 Build/M1AJQ) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 GSA/10.28.9.21.arm
+atc/1.0 watchOS/5.3 model/Watch4,3 hwp/t8006 build/16U569 (6\; dt:192)
+radio.de 4.14.0 (HUAWEI/WAS-LX1\; Android 8.0.0\; de_DE)
+Mozilla/5.0 (Linux\; Android 8.1.0\; ONEPLUS A5010 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36 OPR/53.0.2569.141117
+Mozilla/5.0 (Linux\; Android 6.0\; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.8560.1242 Mobile Safari/537.36\; Bytespider
+Mozilla/5.0 (Windows NT 6.1\; rv:68.0) Gecko/20100101 Firefox/68.0
+Podbean/Android App 7.0.3 (http://podbean.com),f05d20e49e25da269ee68d542473d230
+Mozilla/5.0 (iPad\; CPU OS 12_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/75.0.3770.103 Mobile/15E148 Safari/605.1
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Wget/1.20.1 (linux-gnueabihf)
+Instacast/2708 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; U\; Android 9\; en-gb\; ONEPLUS A3003 Build/PKQ1.181203.001) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/10.24.6.21.arm64
+AppleCoreMedia/1.0.0.16F203 (iPhone\; U\; CPU OS 12_3_1 like Mac OS X\; nb_no)
+AppleCoreMedia/1.0.0.16G77 (iPad\; U\; CPU OS 12_4 like Mac OS X\; de_ch)
+atc/1.0 watchOS/6.0 model/Watch5,4 hwp/t8006 build/17R548 (6\; dt:202)
+Mozilla/5.0 (Linux\; Android 9\; Pixel 2 XL Build/PQ3A.190705.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.9.21.arm64
+AndroidDownloadManager/9 (Linux\; U\; Android 9\; ONEPLUS A5000 Build/PKQ1.180716.001)
+CastBox/8.3 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 12.3.1)
+CastBox/8.3 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 12.3.1)
+Mozilla/5.0 (Linux\; Android 8.1.0\; MI MAX 3 Build/OPM1.171019.019\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.105 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+CastBox/8.3 (fm.castbox.audiobook.radio.podcast\; build:1\; iOS 12.4.0)
+AppleCoreMedia/1.0.0.16G77 (iPad\; U\; CPU OS 12_4 like Mac OS X\; de_at)
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.1.19-1-MANJARO
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.1.19-1-MANJARO
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.1.19-1-MANJARO
+gPodder/3.10.9 (+http://gpodder.org/) Linux/5.1.19-1-MANJARO
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 8.1.0\; Moto G (5S) Plus Build/OPSS28.65-36-11-4)
+PodcastAddict/v2 - Dalvik/2.1.0 (Linux\; U\; Android 9\; SM-G930F Build/PQ3A.190705.003)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 YaBrowser/19.6.0.1583 Yowser/2.5 Safari/537.36
+Downcast/2.9.41 (iPhone\; iOS 11.2.1\; Scale/2.00)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+Podbean/Android App 7.0.3 (http://podbean.com),42b950326920638251a87b8206a55c43
+AppleCoreMedia/1.0.0.16G77 (iPad\; U\; CPU OS 12_4 like Mac OS X\; en_us)
+Mozilla/5.0 (Linux\; Android 9\; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+radio.de 4.14.0 (Sony/H8216\; Android 9\; de_DE)
+Overcast/776 CFNetwork/1091 Darwin/19.0.0
+AppleCoreMedia/1.0.0.17A5534f (iPhone\; U\; CPU OS 13_0 like Mac OS X\; en_us)
+Mozilla/5.0 (Linux\; Android 8.0.0\; F5121) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; SM-G800F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+atc/1.0 watchOS/5.3 model/Watch3,3 hwp/t8004 build/16U569 (6\; dt:155)
+gPodder/3.10.9 (+http://gpodder.org/) Darwin/18.6.0
+AppleCoreMedia/1.0.0.16M568 (Apple TV\; U\; CPU OS 12_4 like Mac OS X\; de_de)
+radio.fr 4.14.0 (HUAWEI/ANE-LX1\; Android 9\; fr_FR)
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+radio.de 4.14.0 (WIKO/PULP\; Android 5.1\; de_DE)
+iTunes/12.9.6 (Windows\; Microsoft Windows 10 x64 Professional Edition (Build 18362)\; x64) AppleWebKit/7607.3009.0.19
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Franz/5.2.0 Chrome/69.0.3497.128 Electron/4.2.4 Safari/537.36
+Mozilla/5.0 (Linux\; Android 8.0.0\; F5321) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (iPhone\; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/18.1b15719 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Macintosh\; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; de_at)
+Mozilla/5.0 (Linux\; Android 9\; VOG-L29 Build/HUAWEIVOG-L29\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+Mozilla/5.0 (Linux\; Android 5.0\; SM-N9005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (X11\; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.12.4 Chrome/69.0.3497.128 Safari/537.36
+Mozilla/5.0 (Linux\; Android 5.0.1\; GT-I9505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux\; Android 9\; BKL-L09 Build/HUAWEIBKL-L09S\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.28.7.21.arm64
+Mozilla/5.0 (Linux\; Android 7.1.1\; E6653) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Podcat%202/22374 CFNetwork/978.0.7 Darwin/18.7.0
+Mozilla/5.0 (Linux\; Android 9\; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+CastBox/7.69.17-190715121 (Linux\;Android 6.0.1) ExoPlayerLib/2.9.1
+CastBox/7.69.17-190715121 (Linux\;Android 6.0.1) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; Android 9\; MI MAX 3 Build/PKQ1.181007.001\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 GSA/10.20.3.21.arm64
+Mozilla/5.0 (X11\; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/75.0.3770.90 Chrome/75.0.3770.90 Safari/537.36
+Mozilla/5.0 (Linux\; Android 6.0.1\; MI 5s) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Android 8.1.0\; Mobile\; rv:68.0) Gecko/68.0 Firefox/68.0
+AppleCoreMedia/1.0.0.17J5526e (Apple TV\; U\; CPU OS 13_0 like Mac OS X\; de_at)
+Mozilla/5.0 (Windows NT 10.0\; Win64\; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/58.0.1
+Mozilla/5.0 (Windows NT 6.1\; rv:27.3) Gecko/20130101 Firefox/27.3
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 6.1\; de) Opera 11.51
+Mozilla/5.0 (Android 2.2\; Windows\; U\; Windows NT 6.1\; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 6.0) Opera 12.14
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 6.1\; Trident/5.0\; chromeframe/11.0.696.57)
+Mozilla/5.0 (Windows\; U\; Windows NT 5.1\; ru-RU) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+Mozilla/5.0 (Windows NT 6.1\; WOW64\; rv:46.0) Gecko/20120121 Firefox/46.0
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 6.1\; Win64\; x64\; Trident/5.0
+Opera/9.80 (X11\; Linux x86_64\; U\; bg) Presto/2.8.131 Version/11.10
+Mozilla/5.0 (Windows NT 6.1\; rv:22.0) Gecko/20130405 Firefox/22.0
+Mozilla/5.0 (Windows\; U\; Windows NT 6.0\; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 7.1\; Trident/5.0)
+Mozilla/5.0 (Windows NT 6.2\; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36
+Mozilla/5.0 (Windows NT 6.2\; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36
+Mozilla/5.0 (compatible\; MSIE 9.0\; Windows NT 6.0\; Trident/4.0\; GTB7.4\; InfoPath.3\; SV1\; .NET CLR 3.1.76908\; WOW64\; en-US)
+Mozilla/5.0 (Windows\; U\; Windows NT 6.1\; en-US\; rv:1.9.2.13) Gecko/20101213 Opera/9.80 (Windows NT 6.1\; U\; zh-tw) Presto/2.7.62 Version/11.01
+Mozilla/5.0 (Windows NT 6.2\; rv:20.0) Gecko/20121202 Firefox/26.0
+Mozilla/5.0 (compatible\; MSIE 8.0\; Windows NT 5.0\; Trident/4.0\; InfoPath.1\; SV1\; .NET CLR 3.0.4506.2152\; .NET CLR 3.5.30729\; .NET CLR 3.0.04506.30)
+atc/1.0 watchOS/6.0 model/Watch2,3 hwp/t8002 build/17R5521e (6\; dt:133)
+AppleCoreMedia/1.0.0.16G77 (iPhone\; U\; CPU OS 12_4 like Mac OS X\; en_gb)
+atc/1.0 watchOS/6.0 model/Watch4,4 hwp/t8006 build/17R548 (6\; dt:193)
+Downcast/2.9.39 (Mac OS X Version 10.14.6 (Build 18G84))
+yourApplicationName/2.17.36 (Linux\;Android 8.0.0) ExoPlayerLib/2.10.0
+Mozilla/5.0 (Linux\; Android 9\; Pixel 3a Build/PD2A.190115.032\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+Mozilla/5.0 (Linux\; Android 9\; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Mozilla/5.0 (Android 7.1.1\; Mobile\; rv:68.0) Gecko/68.0 Firefox/68.0
+Mozilla/5.0 (Linux\; Android 8.1.0\; Aquaris X Pro Build/OPM1.171019.026\; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.143 Mobile Safari/537.36 GSA/10.24.6.21.arm64
+CastBox/7.69.0-190603081hw (Linux\;Android 9) ExoPlayerLib/2.9.1
+Mozilla/5.0 (Linux\; U\; Android 9\; de-de\; SM-A405FN Build/PPR1.180610.011) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 GSA/9.84.10.21.arm64
+Mozilla/5.0 (Linux\; Android 7.0\; HUAWEI VNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36
+Downcast/2.9.23 (Mac OS X Version 10.11.6 (Build 15G22010))

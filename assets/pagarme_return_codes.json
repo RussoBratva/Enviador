@@ -1,0 +1,350 @@
+{
+    "0000": {
+        "en": "Approved Transaction",
+        "pt": "Transação Aprovada"
+    },
+    "0001": {
+        "en": "Transaction Approved, but verify identity before authorizing",
+        "pt": "Transação Aprovada, mas verifique a identidade antes de autorizar"
+    },
+    "1000": {
+        "en": "Do not honour",
+        "pt": "Não aprovado"
+    },
+    "1001": {
+        "en": "Expired card",
+        "pt": "Cartão vencido"
+    },
+    "1002": {
+        "en": "Suspected fraud",
+        "pt": "Suspeita de fraude"
+    },
+    "1003": {
+        "en": "Card acceptor contact acquirer",
+        "pt": "Entre em contato com emissor"
+    },
+    "1004": {
+        "en": "Restricted card",
+        "pt": "Cartão com restrição"
+    },
+    "1005": {
+        "en": "Card acceptor call acquirer's security department",
+        "pt": "Entre em contato com departamento de segurança do adquirente"
+    },
+    "1006": {
+        "en": "Allowable PIN tries exceeded",
+        "pt": "Tentativas de senha excedidas"
+    },
+    "1007": {
+        "en": "Refer to card issuer",
+        "pt": "Consultar o emissor"
+    },
+    "1008": {
+        "en": "Refer to card issuer's special conditions",
+        "pt": "Consultar as condições especiais do emissor"
+    },
+    "1009": {
+        "en": "Invalid card acceptor",
+        "pt": "Estabelecimento inválido"
+    },
+    "1010": {
+        "en": "Invalid amount",
+        "pt": "Valor inválido"
+    },
+    "1011": {
+        "en": "Invalid card number",
+        "pt": "Cartão inválido"
+    },
+    "1012": {
+        "en": "PIN data required",
+        "pt": "Senha necessária"
+    },
+    "1014": {
+        "en": "No account of type requested",
+        "pt": "Nenhuma conta do tipo selecionado"
+    },
+    "1015": {
+        "en": "Requested function not supported",
+        "pt": "Função selecionada não suportada"
+    },
+    "1016": {
+        "en": "Not sufficient funds",
+        "pt": "Saldo insuficiente"
+    },
+    "1017": {
+        "en": "Incorrect PIN",
+        "pt": "Senha inválida"
+    },
+    "1019": {
+        "en": "Transaction not permitted to cardholder",
+        "pt": "Transação não permitida para o portador"
+    },
+    "1020": {
+        "en": "Transaction not permitted to terminal",
+        "pt": "Transação não permitida para o terminal"
+    },
+    "1021": {
+        "en": "Exceeds withdrawal amount limit",
+        "pt": "Limite de valor para saque excedido"
+    },
+    "1022": {
+        "en": "Security violation",
+        "pt": "Violação de segurança"
+    },
+    "1023": {
+        "en": "Exceeds withdrawal frequency limit",
+        "pt": "Limite de quantidade de saques excedido"
+    },
+    "1024": {
+        "en": "Violation of law",
+        "pt": "Violação da lei"
+    },
+    "1025": {
+        "en": "Card not effective",
+        "pt": "Cartão bloqueado"
+    },
+    "1026": {
+        "en": "Invalid PIN block",
+        "pt": "Dados de senha inválidos"
+    },
+    "1027": {
+        "en": "PIN length error",
+        "pt": "Erro no tamanho da senha"
+    },
+    "1028": {
+        "en": "PIN key sync error",
+        "pt": "Erro de sincronia de chave de senha"
+    },
+    "1029": {
+        "en": "Suspected counterfeit card",
+        "pt": "Suspeita de cartão falso"
+    },
+    "1030": {
+        "en": "Currency unacceptable to card issuer",
+        "pt": "Moeda inaceitável para o emissor"
+    },
+    "1032": {
+        "en": "Lost/stolen card",
+        "pt": "Cartão perdido ou roubado"
+    },
+    "1035": {
+        "en": "Closed account",
+        "pt": "Conta encerrada"
+    },
+    "1036": {
+        "en": "Closed savings account, or restricted for closing",
+        "pt": "Conta poupança encerrada ou bloqueada para encerramento"
+    },
+    "1037": {
+        "en": "Closed credit account or restricted for closing",
+        "pt": "Conta de crédito encerrada ou bloqueada para encerramento"
+    },
+    "1039": {
+        "en": "Closed cheque account or restricted for closing",
+        "pt": "Conta corrente encerrada ou bloquada para encerramento"
+    },
+    "1041": {
+        "en": "From account bad status",
+        "pt": "Status ruim para conta de origem"
+    },
+    "1042": {
+        "en": "To account bad status",
+        "pt": "Status ruim para conta de destino"
+    },
+    "1045": {
+        "en": "Card verification data failed",
+        "pt": "Código de segurança inválido"
+    },
+    "1047": {
+        "en": "PIN change required",
+        "pt": "Troca de senha necessária"
+    },
+    "1048": {
+        "en": "New PIN invalid",
+        "pt": "Nova senha inválida"
+    },
+    "1057": {
+        "en": "Payment date invalid",
+        "pt": "Data de pagamento inválida"
+    },
+    "1060": {
+        "en": "Transaction did not complete normally at terminal",
+        "pt": "Transação não completou normalmente no terminal"
+    },
+    "1061": {
+        "en": "Transaction not supported by the card issuer",
+        "pt": "Transação não suportada pelo emissor"
+    },
+    "1062": {
+        "en": "Cashback not allowed",
+        "pt": "Saque fácil não disponível"
+    },
+    "1063": {
+        "en": "Cashback amount exceeded",
+        "pt": "Limite de saque fácil excedido"
+    },
+    "1064": {
+        "en": "Declined, transaction processed offline by terminal",
+        "pt": "Negado offline pelo terminal"
+    },
+    "1065": {
+        "en": "Declined, terminal unable to process offline",
+        "pt": "Negado, não foi possível processar offline"
+    },
+    "2000": {
+        "en": "Do not honour",
+        "pt": "Não aprovado"
+    },
+    "2001": {
+        "en": "Expired card",
+        "pt": "Cartão vencido"
+    },
+    "2002": {
+        "en": "Suspected fraud",
+        "pt": "Suspeita de fraude"
+    },
+    "2003": {
+        "en": "Card acceptor contact acquirer",
+        "pt": "Entre em contato com emissor"
+    },
+    "2004": {
+        "en": "Restricted card",
+        "pt": "Cartão com restrição"
+    },
+    "2005": {
+        "en": "Card acceptor call acquirer's security department",
+        "pt": "Entre em contato com departamento de segurança do adquirente"
+    },
+    "2006": {
+        "en": "Allowable PIN tries exceeded",
+        "pt": "Tentativas de senha excedidas"
+    },
+    "2007": {
+        "en": "Special conditions",
+        "pt": "Condições especiais"
+    },
+    "2008": {
+        "en": "Lost card",
+        "pt": "Cartão perdido"
+    },
+    "2009": {
+        "en": "Stolen card",
+        "pt": "Cartão roubado"
+    },
+    "2010": {
+        "en": "Suspected counterfeit card",
+        "pt": "Suspeita de cartão falso"
+    },
+    "2011": {
+        "en": "Daily withdrawal uses exceeded",
+        "pt": "Limite de quantidade de saques excedido"
+    },
+    "2012": {
+        "en": "Daily withdrawal amount exceeded",
+        "pt": "Limite de valor para saque excedido"
+    },
+    "9100": {
+        "en": "One or more data element errors (see message error indicator)",
+        "pt": "Erro no formato da mensagem"
+    },
+    "9102": {
+        "en": "Invalid transaction",
+        "pt": "Transação inválida"
+    },
+    "9103": {
+        "en": "Re-enter transaction",
+        "pt": "Tente novamente"
+    },
+    "9105": {
+        "en": "Acquirer not supported by switch",
+        "pt": "Adquirente não suportado pelo switch"
+    },
+    "9107": {
+        "en": "Card issuer or switch inoperative",
+        "pt": "Emissor fora de operação"
+    },
+    "9108": {
+        "en": "Transaction destination cannot be found for routing",
+        "pt": "Não foi possível enviar a transação para o destinatário"
+    },
+    "9109": {
+        "en": "System malfunction",
+        "pt": "Erro no sistema"
+    },
+    "9110": {
+        "en": "Card issuer signed off",
+        "pt": "Emissor se desconectou"
+    },
+    "9111": {
+        "en": "Card issuer timed out",
+        "pt": "Emissor não respondeu em tempo"
+    },
+    "9112": {
+        "en": "Card issuer unavailable",
+        "pt": "Emissor indisponível"
+    },
+    "9113": {
+        "en": "Duplicate transmission",
+        "pt": "Transmissão duplicada"
+    },
+    "9114": {
+        "en": "Not able to trace back to original transaction",
+        "pt": "Não foi possível encontrar a transação original"
+    },
+    "9116": {
+        "en": "MAC incorrect",
+        "pt": "MAC incorreto"
+    },
+    "9117": {
+        "en": "MAC key sync error",
+        "pt": "Erro de sincronização de chave de MAC"
+    },
+    "9118": {
+        "en": "No communication keys available for use",
+        "pt": "Nenhuma chave de comunicação disponível"
+    },
+    "9119": {
+        "en": "Encryption key sync error",
+        "pt": "Erro de sincronização de chave de encriptação"
+    },
+    "9120": {
+        "en": "Security software/hardware error – try again",
+        "pt": "Erro de segurança de software/hardware, tente novamente"
+    },
+    "9121": {
+        "en": "Security software/hardware error – no action",
+        "pt": "Erro de segurança de software/hardware"
+    },
+    "9122": {
+        "en": "Message number out of sequence",
+        "pt": "Número da mensagem fora de sequência"
+    },
+    "9123": {
+        "en": "Request in progress",
+        "pt": "Requisição em progresso"
+    },
+    "9124": {
+        "en": "Invalid security code",
+        "pt": "Código de segurança inválido"
+    },
+    "9125": {
+        "en": "Database error",
+        "pt": "Erro no banco de dados"
+    },
+    "9132": {
+        "en": "Recurring data error",
+        "pt": "Erro nos dados de recorrência"
+    },
+    "9133": {
+        "en": "Update not allowed",
+        "pt": "Atualização não permitida"
+    },
+    "9350": {
+        "en": "Violation of business arrangement",
+        "pt": "Violação de acordo comercial"
+    },
+    "9999": {
+        "en": "Other errors",
+        "pt": "Erro não especificado"
+    }
+}

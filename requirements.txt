@@ -1,0 +1,14 @@
+python-telegram-bot
+python-dateutil
+deep-translator
+fordev
+requests
+aiosqlite
+gerencianet
+mercadopago
+pyopenssl
+validate-docbr
+pytz
+qrcode
+pillow
+card-validator

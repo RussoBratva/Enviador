@@ -1,0 +1,285 @@
+{
+    "infos": {
+        "language_name": "Portuguese Brazil",
+        "language_flag": "pt_br",
+        "currency_symbol": "R$",
+        "bin_search_default": "482477",
+        "bank_search_default": "ITAU UNIBANCO",
+        "scheme_search_default": "VISA"
+    },
+
+    "texts": {
+        "default": "Padrão",
+        "null_fields": "Sem informação",
+        "new": "Novo",
+        "no_price": "Não especificado",
+        "category": "Categoria",
+        "amount": "Quantidade",
+        "price": "Preço atual",
+        "automatic": "Automático",
+
+        "bulk_message_accept": "Uma lista de cartões para serem adicionados em massa foi detectada!\nOs cartões vão ser adicionados no estoque e um relatória vai ser enviado!",
+        "bulk_message_recuse":"Parece que você não enviou um arquivo de adição de cartões em massa ou ele contém algum erro. Se esse não for o caso, ignore essa mensagem!",
+        "bulk_added_cards": "*Os cartões na lista enviada foram adicionados*\n\n*Linhas ignoradas*: `{}`\n*Cartões adicionados*: `{}`\n*Cartões não adicionados*: `{}`\n\nPara mais informações, veja o relatório anexado a essa mensagem!",
+        "bulk_error_1": "Motivo: A bin do cartão é inválida!",
+        "bulk_error_2": "Motivo: O número do cartão não é válido!",
+        "bulk_error_3": "Motivo: O cartão já está ou já esteve no estoque!",
+        "bulk_cc_info_log": "\nCC: {}\nExpiração: {}\ncvv: {}\nBandeira: {}\nTipo: {}\nCategoria: {}\nBanco: {}\nCPF: {}\nNome: {}\n",
+        "bulk_log": "RELATÓRIO DE ADIÇÂO DE CCs EM MASSA:\n\nAdicionado pelo usuário: {}\n\nLinhas ignoradas: {}\nCartões adicionados: {}\nCartões não adicionados: {}\n\nLISTA DE CARTÕES ADICIONADOS:\n\n{}\n\nLISTA DE CARTÕES RECUSADOS:\n\n{}",
+        "new_categories": "Você tem {} nova(s) categoria(s) pra editar, user /editarprecos para isso",
+
+        "new_categorie": "Você tem 1 nova categoria pra editar, user /editarprecos para isso",
+        "added_cc_info": "✔️ | *Cartão Adicionado*!\n\nEsse cartão foi adicionado nos nossos sistemas para venda. Durante a venda ele será testado e caso seja reprovado, ele será excluido!\n\n💳 *CC*: `{}xxxxxxxxxx`\n📆 *Expiração*: `{}`\n🔐 *cvv*: `xxx`\n🏳️ *Bandeira*: `{}`\n⚜️ *Tipo*: `{}`\n💠 *Categoria*: `{}`\n🏛 *Banco*: `{}`",
+        "added_cc_error_1": "❌ | *Erro*!\n\n*Cartão*: `{}`\n\nA bin desse cartão não foi identificada como uma bin válida!",
+        "added_cc_error_2": "❌ | *Erro*!\n\n*Cartão*: `{}`\n\nO número do cartão não foi identificado como um número válido!",
+        "added_cc_error_3": "❌ | *Erro*!\n\n*Cartão*: `{}`\n\nO cartão não pôde ser adicionado porque já está ou já esteve no estoque!",
+        "added_cc_error_4": "❌ | *Erro*!\n\n*Cartão*: `{}`\n\nFormato de cartão inválido!\n\nPara colocar uma CC em estoque, use essa formatação:\n`/addcc <Número>|<Expiração>|<CVV>`\nPara enviar cartões em massa, envie um arquivo .txt anexado ao comando com os cartões separados por linha com a mesma formatação dita antes!",
+        "added_cc_error_5": "❌ | *Erro*!\n\nVocê não tem autorização para usar esse comando!",
+        "added_cc_error_6": "❌ | *Erro*!\n\nA mensagem que você enviou está vazia ou contém algum erro!\n\nPara colocar uma CC em estoque, use essa formatação: `/addcc <Número>|<Expiração>|<CVV>`\nPara enviar cartões em massa, envie um arquivo .txt com os cartões separados por linha com a mesma formatação mencionada antes!",
+        "added_cc_error_7": "❌ | *Erro*!\n\nOcorreu um erro interno! Por favor contate o suporte.",
+
+        "table_created": "📝 *| Tabela criada!*\n\nUma nova tabela mix foi criada!\n\n*Quantidade*: `{}`\n*Preço*: `{}`\n\nA tabela irá aparecer no menu de compra de mix caso a quantidade de cartões necessários para a venda em lote exista!\n\nPara editar o preço dessa tabela, dê o comando '/editarprecos', em seguida clique em '{}' e selecione a tabela para editar!",
+        "table_create_error": "❌ *| Erro*\n\nErro ao criar tabela mix. Para criar uma tabela corretamente, use o comando assim: `/criarmix <quantidade>|<preço>`!",
+
+        "price_edit": "📝 | *Editar Preços*\n\nEscolha uma categoria de vendas para editar abaixo:",
+        "price_edit_text": "📝 | *Editar Preços*\n\nEdite preços das categorias de CC\n\nCategorias marcadas com ({}) ainda não possuem um preço definido. Se não definidos, não aparecerão no stock!",
+        "price_mix_edit_text": "📝 | *Editar Preços*\n\nUse essa área para editar tabelas de venda de cartões em lote (mix).\nPara criar uma nova tabele, use o comando; `/criarmix <quantidade>|<preço>`!",
+        "price_edit_info_1": "📝 | *Editor de Preços*:\n\n*{}*: `{}`\n*{}*: `{}`",
+        "price_edit_info_2": "*Novo Preço em reais*",
+        "price_edit_info_null": "Digite usando o teclado numérico",
+        "price_edit_info_changed": "📝 | *Editor de Preços*:\n\nPreço alterado com sucesso!\n\n*{}*: `{}`\n*Preço Antigo*: `{}`\n*Preço Novo*: `{}`",
+        "price_mix_deleted": "📝 | *Editor de Preços*:\n\nTabela excluida com sucesso!\n\n*{}*: `{}`\n",
+        "price_edit_info_done": "*Clique em 'Aplicar' para aplicar o novo preço ou 'Zerar' para limpar a seleção!*",
+        "price_edit_choose": "📝 | *Editor de Preços*\n\nEscolha abaixo uma categoria de vendas para editar!",
+
+        "cc_info_buy": "✨ | *Detalhes do cartão*:\n\n💳 *CC*: `{}xxxxxxxxxx`\n📆 *Expiração*: `{}`\n🔐 *cvv*: `xxx`\n🏳️ *Bandeira*: `{}`\n⚜️ *Tipo*: `{}`\n💠 *Categoria*: `{}`\n🏛 *Banco*: `{}`\n\n💰 *Preço*: `R${},00`",
+        "cc_info": "✨ | *Cartão comprado*:\n\n💳 *CC*: `{}`\n📆 *Expiração*: `{}`\n🔐 *cvv*: `{}`\n🏳️ *Bandeira*: `{}`\n⚜️ *Tipo*: `{}`\n💠 *Categoria*: `{}`\n🏛 *Banco*: `{}`\n\n📃 *CPF*: `{}`\n👤 *Nome*: `{}`\n\n💰 *Preço pago*: `R${},00`",
+        "no_credits_alert": "❕ Você não possui saldo o suficiente para adquirir este produto (R${},00). Seu saldo atual é: R${},00",
+        "cc_buy_error_1": "Esse cartão já foi adquirido por outro usuário, por favor, tente procurar por outro cartão!",
+        "cc_buy_error_2": "Ocorreu um erro ao comprar esse cartão, tente comprar outro! Se o erro persistir, por favor, entre em contato conosco!",
+        "cc_buy_warning": "O cartão foi comprado e vai ser enviado no chat!",
+        "maintenance": "⚠️ | *Estamos em manutenção*\n\nO bot está em modo de manutenção. Provavelmente isso aconteceu porque estamos fazendo melhorias em algum recurso do bot ou no bot em si.\n\nVolte mais tarde, provavelmente o bot estará ativo novamente até lá :)",
+
+        "main_text": "🛒 | *Loja de CCs - {}* \n\nOlá *{}*, seja bem vindo a nossa store!\nPara qualquer dúvida, entre em contato com: {}!\n\n{}",
+        "terms": "🆙 | *TERMOS DE COMPRA E USO*\n\n⚠️ GARANTIMOS INFO LIVE, NÃO SALDO NA MESMA!\n⚠️ NÃO GARANTIMOS A SUA APROVAÇÃO!\n⚠️ NÃO ENSINAMOS A USAR A CC, COMPRE APENAS SE SOUBER O QUE ESTÀ FAZENDO!\n⚠️ NÃO ACEITO TESTE NETFLIX, UBER, IFOOD, ETC...!\n⚠️ UMA VEZ QUE O SALDO SEJA ADICIONADO AO BOT, NÃO TEM DEVOLUÇÂO!\n⚠️ NÃO FAZEMOS TROCA DE CC, JÁ QUE O PRÓPRIO BOT CHECA SE A CC TÁ LIVE OU NÃO!",
+
+        "unitary": "💳 | *Unitárias*:",
+        "stock_null": "Estamos sem stock no momento, por favor, volte mais tarde!",
+        "add_credits_info": "💰 | *Adicionar Saldo*:\n\nPara adicionar saldo à sua conta, você deve usar o comando: /recarga <valor que deseja> (exemplo: `/recarga 10`).\n\nApós o uso do comando, o bot enviará as instruções de pagamento. O pagamento é feito via PIX e tem uma duração de 90 minutos (1 hora e meia).\n\n*Vale lembrar* que o valor da adição minima de saldo para adicionar no bot é 10 reais!",
+        "profile_info": "👤 | *Perfil*\n\n- *Nome*: `{}`\n- *ID*: `{}`\n- *Registrado em:* `{}`\n\n💰 | *Carteira*\n\n- *Saldo*: `R${},00`\n- *Compras*: `{}`\n- *Recargas*: `{}`\n- *Gifts resgatados*: `{}`",
+        "comming_soon": "⚠️ | *Recurso em construção*\n\nEsse recurso está sendo desenvolvido, volte uma outra hora, talvez ele já esteja pronto! :)",
+
+        "mix_text": "🔃 | *Tabela mix*:\n\n",
+        "mix_no_stock": "🔃 | *Tabela mix*:\n\nEstamos sem Stock para vender mix, por favor, volte mais tarde, certamente teremos! :D",
+        "table_mix_text": "*Mix de* `{}` cartões *por*: `R${},00`\n",
+        "no_table": "🔃 | *Tabela mix*:\n\nAinda não temos tabelas mix a venda, por favor, volte mais tarde! :)",
+
+        "history_text": "*Histórico de transações*:\n\n💳 *Cartões*: `{}`\n\n💰 *Saldo*: `R${}`\n\n💰 *Recargas*: `{}`\n\n🎁 *Gifts resgatados*: `{}`\n\n*Atenção*:  Os valores presentes nesta sessão, é o total comprado, adicionado e resgatado, respectivamente.\nBaixe seu histórico para obter a lista de todos os cartões adquiridos",
+        "history_cc_info_log": "\nNúmero: {}\nExpiração: {}\ncvv: {}\nBandeira: {}\nTipo: {}\nCategoria: {}\nBanco: {}\nPaís: {}\nCPF: {}\nNome: {}\nData da compra: {}\n",
+        "history_pay_info_log": "\nTipo: Recarga\nId da recarga: {}\nValor da recarga: {}\nData da recarga: {}\n",
+        "history_gift_info_log": "\nTipo: Gift\nValor da recarga: {}\nData da recarga: {}\n",
+        "history_log": "HISTÓRICO DO USUÁRIO:\n\nRegistrado em: {}\nCartões comprados: {}\nSaldo: R${},00\nRecargas: {}\nGifts: {}\n\n\nTODOS OS CARTÕES COMPRADOS:\n\n{}\n\nRECARGAS FEITAS / GIFTS RESGATADOS:\n\n{}",
+        "fixed_history_message_1": "O relatório do seu histórico foi anexado a essa mensagem como um arquivo de texto.",
+        "fixed_history_message_2": "Sua conta está sendo excluida e um relatório do seu histórico foi anexado a essa mensagem como um arquivo de texto.",
+        "fixed_history_message_3": "O usuário {}, de id: {}, excluiu a própria conta da store! o histórico dele foi anexado a essa mensagem como um arquivo de texto.",
+        "download_history_alert": "Histórico baixado",
+        "download_history_error": "❌ | *Erro!*\n\nNós não conseguimos gerar o seu histórico, provavelmente isso ocorreu devido a um erro no sistema, por favor, entre em contado com o suporte caso o problema percista.",
+
+        "card_id_error": "❌ | *Erro!*\n\nDigite um ID de cartão válido, você pode consegui-lós ao pesquisar por cartões.",
+        "stock_null_randint": "OPS, estamos sem stock suficiente para randômizar a escolha de cartões! Tente novamente mais tarde!",
+        "cancelled_purchase": "Compra cancelada!",
+        "stock_status": "*Informações*:\n\n- *Saldo*: R${}\n- *Cartões*: {}\n\nEscolha a opção desejada no menu abaixo.",
+
+        "delete_account_warning": "Tem certeza que deseja cancelar a conta? Todas as suas compras, recargas, indicados relacionados e saldo serão excluidos! Caso confirme, uma cópia do seu histórico será enviada.",
+        "deleting_account_warning": "Excluindo conta...",
+        "deleted_account": "Sua conta foi encerrada com sucesso!",
+        "delete_account_error": "❌ | *Erro*\n\nHouve um erro ao excluir sua conta. Alguns dados dados da conta podem não ter sido excluidos completamente. Qualquer dúvida, entre em contato conosco!",
+
+        "affliate_text": "👥 | *Sistema de Afiliados*\n\nDivulgue seu link de afiliado e ganhe 10% em toda recarga do seu indicado!\n\n*Como funciona?*\n\n- Cada pessoa que for indicada pelo seu link e recarregar qualquer valor, você vai ganhar 10% do valor que ele recarregou, isso inclui todas as recargas que ele fizer!\n- Os valores serão concedidos automaticamente em dinheiro na sua conta cadastrada no bot.\n- Quanto mais pessoas você indicar, mais você vai ganhar!\n\nO seu link de afiliado é: https://t.me/{}?start={}\n\nVocê pode divulgar seu link clicando no botão 'compartilhar' e selecionar o chat que você quer enviar com um texto pré-pronto.\n\n*Atualmente você possui*: `{}` pessoas indicadas",
+        "afiliate_invite_text": "Melhor bot de CCs do Telegram!\n\nCC TESTADA NO ATO DA COMPRA (não leve cc die) \nTODAS AS CCS ACOMPANHAM NOME E CPF\nVOCÊ PAGA VIA PIX COM RECONHECIMENTO INSTANTÂNEO DO PAGAMENTO DENTRO DO BOT. RECEBE A CC NO MESMO INSTANTE!\n\nVendas: https://t.me/{}?start={}",
+
+        "pay_info_alert": "Vamos enviar as instruções de pagamento na sua DM!",
+        "pay_info": "🛍️ | *Comprar Saldo*\n\nVocê está prestes a comprar saldo para usar no bot!\nPara poder pagar, geramos um PIX com duração de {} minutos, use ele para pagar com o seu banco via PIX usando o PIX gerado para a transação.\n\nO saldo irá cair em até 1 minuto após o pagamento via pix. Caso ocorra algum erro após o pagamento, por favor avise o suporte do bot, que te ajudaremos.\n\n*ID da compra*: `{}`\n*Chave PIX temporária*:\n`{}`\n\n*Valor*: `R${},00`",
+        "pay_info_static": "🛍️ | *Comprar Saldo*\n\nGeramos um PIX estático com todas as informações necessárias para o pagamento.\n\nPara poder pagar, use o aplicativo do seu banco na opção de PIX usando o PIX gerado para a transação.\n\nDepois de pagar você deve mandar o comprovante para: {} e ele te enviará as instruçoes para a adição de saldo!\n\n*Chave PIX estática*:\n`{}`\n\n*Valor*: `R${},00`",
+        "payed_profile_alert": "🎁 | *Saldo comprado!*\n\nSua recarga de `R${},00` foi aprovada e agora você fazer compras de InfoCC no bot!\n\n*ID da compra*: `{}`\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n\nVocê possui: `R${},00` de saldo",
+        "payed_group_alert": "🎁 | *Saldo comprado!*\n\n*Usuário*: `{}`\n*ID de usuário*: `{}`\n*Valor recarregado*: `R${},00",
+        "afiliate_added_credit_alert": "🎁 | *Remuneração de afiliado!*\n\n*O usuário*: `{}`\n*Acaba de adicionar*: `R${},00`\n*Você ganhou*: `R${},00` por ter o indicado",
+        "expired_pay": "🛍️ | *Compra expirada!*\n\nSua compra anterior expirou. Refaça o procedimento de compra caso queira refazer o processo de compra.\n\n*Valor da recarga*: `R${},00`",
+        "pay_error_1": "O valor de recarga deve ser superior a 10 reais!",
+        "pay_error_2": "Por favor digite um valor de saldo válido!\n*Exemplo*: `/recarga 10`",
+        "no_pix": "🛍️ | *Comprar Saldo*\n\nPara comprar saldo, fale com {} e compre um gift para poder resgatar ae adicionar seu saldo manualmente!",
+
+        "gift_gen": "🎫 | **Gift gerado**\n\nGift gerado no valor de R${},00!\n\nSeu gift é: `{}`\n\nPara resgatar use o comando:\n`/resgatar {}`",
+        "gift_added": "🎫 | *Gift resgatado*\n\nO seu gift de R${},00 foi resgatado.\nAgora você possui: R${},00 de saldo!",
+        "gift_error_1": "❌ | *Erro*\n\nDigite um código de gift válido!\n\nVocê pode comprar códigos de gift com o nosso suporte e usar-los para recarregar seu saldo manualmente!",
+        "gift_error_2": "❌ | *Erro*\n\nDIgite um valor de saldo em números para gerar o gift!",
+        "gift_error_3": "❌ | *Erro*\n\nEsse gift já foi resgatado pelo usuário: `{}`!\n\nMas você ainda pode comprar outros códigos de gift com o nosso suporte e usar-los para recarregar seu saldo manualmente!",
+        "gift_group_alert": "🎁 | *Gift Resgatado!*\n\n*Usuário*: `{}`\n*ID de usuário*: `{}`\n*Gift*: `xxxxx-xxxxx-xxxxx-{}`\n*Valor do gift*: `R${},00`",
+
+        "pix_created_list": "💲 | *Configurar PIX*\n\nDelete ou adicione chaves PIX para recebimento e automação de adição de saldo via API.",
+        "pix_not_created_list": "💲 | *Adicionar PIXl*\n\nAqui irá aparecer opções de PIX que ainda não foram configurados!n\nO *Pix automático* será usado para criar pagamentos dinâmicos! Isso significa que a adição de saldo será feita automáticamente a partir da confirmação de pagamento feita pela a API do banco usado.\n\nA configuração de PIX automático pode ser um pouco complexa, então pesquise e leia os artigos que iremos oferecer explicando como gerar as credenciais do banco e cadastrar no bot\n\nO *Pix manual* será usado para criar pagamentos estáticos! Isso significa que a adição de saldo não é automática e você terá que verificar se a transação foi concluida com sucesso e gerar um gift no mesmo valor para o usuario adicionar saldo.",
+        "pix_list": "💲 | *PIX criados*\n\nAqui irá aparecer as opções de PIX que foram criadas!",
+        "pix_item": "💲 | *PIX - {}*\n\n*Tipo*: `{}`\n*Método de pagamento padrao*: `{}`.",
+        "pix_key": "💲 | *PIX - chave pix (manual)*\n\nAo adicionar uma chave PIX manual, o usuário usará o QR code estático para adicionar saldo e você será o reponsável por validar e instruir o usuário a adicionar o saldo pago no bot.",
+        "pix_mp": "💲 | *PIX - Mercado Pago (automático)*\n\nEm breve.",
+        "pix_gn": "💲 | *PIX - Gerencia Net (automático)*\n\nEm breve.",
+        "pix_deleted": "💲 | *PIX Deletado*\n\nO PIX {} foi delatado com sucesso!",
+        "pix_created": "💲 | *PIX Criado*\n\nO PIX {} foi criado com sucesso!",
+        "pix_default": "💲 | *PIX Definido como padrao*\n\nO PIX {} foi definido como um PIX padrão!",
+        "add_mp_pix_1": "💲 | *Adcionar PIX Mercado Pago* (1/2)\n\nEnvie o token de produção que você conseguiu ao criar um app na dashboard do Mercado Pago.",
+        "add_mp_pix_2": "💲 | *Adcionar PIX Mercado Pago* (2/2)\n\nPIX do Mercado Pago adicionado com sucesso!",
+        "add_gn_pix_1": "💲 | *Adcionar PIX Gerencia Net* (1/5)\n\n*Certificado*: `Aguardando`\n\nEnvie o certificado criado na dashboard da Gerencia Net.",
+        "add_gn_pix_2": "💲 | *Adcionar PIX Gerencia Net* (2/5)\n\n*Certificado*: `Enviado`\n*Client ID*: `Aguardando`\n\nEnvie o Client ID.",
+        "add_gn_pix_3": "💲 | *Adcionar PIX Gerencia Net* (3/5)\n\n*Certificado*: `Enviado`\n*Client ID*: `{}`\n*Client Secret*: `Aguardando`\n\nEnvie o Client Secret.",
+        "add_gn_pix_4": "💲 | *Adcionar PIX Gerencia Net* (4/5)\n\n*Certificado*: `Enviado`\n*Client ID*: `{}`\n*Client Secret*: `{}`\n*Chave PIX*: `Aguardando`\n\nEnvie a chave pix que você criou na Gerencia Net.",
+        "add_gn_pix_5": "💲 | *Adcionar PIX Gerencia Net* (5/5)\n\nPIX da Gerencia Net adicionado com sucesso!",
+        "add_pix_key_0": "💲 | *Adcionar chave PIX (1/3)*\n\nDigite o tipo de chave PIX que você tem e deseja inserir no bot!",
+        "add_pix_key_1": "💲 | *Adcionar chave PIX* (2/3)\n\nEnvie sua chave PIX do tipo: {} que será usada para fazer pagamentos." ,
+        "add_pix_key_2": "💲 | *Adcionar chave PIX* (3/3)\n\nChave PIX adicionada com sucesso!",
+        
+        "register_default": "✅ | *Definido como padrão*\n\nO método de pix: `{}` foi definido como padrão!",
+        "deleted_pix": "🗑️ | *PIX excluído*\n\nO método de pix: `{}` foi excluido com sucesso, para cadastrar um novo PIX com esse método, vá para o menu de adição de PIX!",
+        "error_pix_edit": "❌ | *Erro*\n\nNão foi possível editar esse método PIX, talvez ele já tenha sido excluido ou não exista!",
+        "error_pix_gn_1": "❌ | *Erro*\n\nNão foi possível validar o seu certificado como um certificado válido. Confira os dados e tente novamente mais tarde!",
+        "error_pix_gn_2": "❌ | *Erro*\n\nNão foi possível completar o cadastro do PIX da Gerencia Net porque o Client ID enviado está incorreto. Verifique os dados enviados e tente novamente mais tarde!",
+        "error_pix_gn_3": "❌ | *Erro*\n\nNão foi possível completar o cadastro do PIX da Gerencia Net porque o Client Secret enviado está incorreto. Verifique os dados enviados e tente novamente mais tarde!",
+        "error_pix_gn_4": "❌ | *Erro*\n\nNão foi possível completar o cadastro do PIX da Gerencia Net porque algum dado enviado está errado. Verifique os dados enviados e tente novamente mais tarde!",
+        "error_pix_key": "❌ | *Erro*\n\nNão foi possível completar o cadastro da chave PIX porque a chave enviada é inválida!",
+        "error_pix_mp": "❌ | *Erro*\n\nNão foi possível completar o cadastro do PIX da Mercado pago porque o token enviado é inválido. Verifique os dados enviados e tente novamente mais tarde!",
+        "cancel_pix_register": "❌ | Pronto!\n\n*Cadastro PIX cancelado*",
+
+
+        "inline_cc_info": "Cartão {}, {}, {}, preço: R${},00",
+        "bin_not_found": "Bin não encontrada",
+        "bank_not_found": "Banco não encontrado",
+        "scheme_not_found": "Bandeira não encontrada",
+        "try_search_other_bin": "Tente procurar por outra bin do seu agrado",
+        "try_search_other_bank": "Tente procurar por outra banco do seu agrado",
+        "try_search_other_scheme": "Tente procurar por outra bandeira do seu agrado",
+        "found_for_bin": "cartões encontrados para a bin",
+        "found_for_bank": "cartões encontrados para o banco",
+        "found_for_scheme": "cartões encontrados para a bandeira",
+        "see_cards": "Veja-os na lista abaixo!",
+        "cards_found": "📁 {} cartões encontrados",
+        "inline_stock_null": "Estamos sem stock, volte uma outra hora, certamente teremos! :)",
+        "inline_stock_null_title": "Estamos sem stock"
+    },
+
+    "buttons": {
+        "register_mp": "Cadastrar PIX Mercado Pago",
+        "register_gn": "Cadastrar PIX Gerencia Net",
+        "register_key": "Cadastrar Chave PIX",
+
+        "cpf": "CPF",
+        "cnpj": "CNPJ",
+        "telefone": "Telefone",
+        "email": "E-mail",
+        "key": "Chave aleatória",
+
+        "delete_message": "Deletar mensagem",
+        "add_pix": "Adicionar PIX",
+        "added_pix": "PIX adicionados",
+        "delete_pix": "Deletar PIX",
+        "default_pix": "Definir como padrão",
+        "mp": "Mercado Pago",
+        "gn": "Gerencia Net",
+        "pix_key": "Chave PIX",
+        "cancel_add_pix": "Cancelar cadastro",
+        "create_pix": "Criar PIX",        
+        "add_mix_table": "Adicionar mix",
+        "delete_mix_table": "Deletar tabela",
+        "create_mix_table": "Criar tabela",
+        "edit_mix": "Editar mix",
+        "edit_unitary": "Editar unitárias",
+        "share": "Compartilhar",
+        "yes": "Sim",
+        "no": "Não",
+        "main": "Menu",
+        "reset_card": "Escolher outra",
+        "done": "Aplicar",
+        "reset": "Zerar",
+        "cancel": "Cancelar",
+        "back_edit_menu": "Voltar ao menu de edição",
+        "buy": "Comprar",
+        "back": "Voltar",
+        "cc_main": "Menu de unitárias",
+        "info": "Informações",
+        "history": "Histórico",
+        "accept_terms": "Aceito os termos!",
+        "download_history": "Baixar Histórico",
+        "unitary_card": "Unitárias",
+        "random_card": "Aleatória",
+        "search_bank": "Pesquisar Banco",
+        "search_scheme": "Pesquisar Bandeira",
+        "search_bin": "Pesquisar Bin",
+        "mix": "Mix",
+        "add_credits": "Adicionar Saldo",
+        "delete_account": "Encerrar Conta",
+        "affliates": "Afiliados",
+        "share_message": "Compartilhar mensagem"
+    },
+
+    "commands": {
+        "start": [
+            "menu",
+            "start"
+        ],
+        "create_table":[
+            "criarmix",
+            "criartabela"
+        ],
+        "add_credits": [
+            "recarga",
+            "recarregar",
+            "pix"
+        ],
+        "add_cc": [
+            "addcc",
+            "ccadd"
+        ],
+        "card": [
+            "cartao",
+            "card"
+        ],
+        "help": [
+            "help",
+            "ajuda"
+        ],
+        "edit_prices": [
+            "editarprecos",
+            "editarpreco"
+        ],
+        "gift_gen": [
+            "gerargift",
+            "gengift",
+            "gift",
+            "ggift",
+            "giftgen"
+        ],
+        "gift_add": [
+            "resgatar",
+            "resgatargift"
+        ],
+        "menu_pix": [
+            "menupix"
+        ],
+        "send": [
+            "send",
+            "notificar",
+            "enviar"
+        ],
+        "add_admin": [
+            "addadmin",
+            "adicionaradm",
+            "addadm",
+            "adcionaradministrador"
+        ],
+        "remove_admin": [
+            "removeradmin",
+            "removeradm",
+            "removeadm",
+            "rmadm",
+            "removeradministrador"
+        ]
+    }
+}

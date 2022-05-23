@@ -1,0 +1,24 @@
+{
+    "default": "pagarme",
+
+    "external": "",
+    "mercadopago": {
+        "token": ""
+    },
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "",
+        "cieloMerchantKey": ""
+    },
+    "pagarme": {
+        "api_key": ""
+    },
+    "erede": {
+        "pv": "",
+        "token": ""
+    }
+}
